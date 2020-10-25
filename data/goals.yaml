@@ -1,0 +1,25 @@
+goals:
+-
+ name: AFG_Afghan_Royal_Air_Force
+ image: AFG_Afghan_Royal_Air_Force.png
+ tags:
+  - vanilla
+  - tfv
+
+-
+ name: AFG_Afghan_Royal_Army
+ image: AFG_Afghan_Royal_Army.png
+ tags:
+  - vanilla
+  - communist
+  - syndicalist
+
+-
+ name: ALB_Royal_Albanian_Air_Force
+ image: ALB_Royal_Albanian_Air_Force.png
+ tags:
+  - vanilla
+  - crown
+  - generic
+
+-
