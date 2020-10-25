@@ -4,15 +4,6816 @@ goals:
  image: AFG_Afghan_Royal_Air_Force.png
  tags:
   - AFG
-
+  - AFG_Afghan_Royal_Air_Force
+  - Air
+  - air
 -
  name: AFG_Afghan_Royal_Army
  image: AFG_Afghan_Royal_Army.png
  tags:
   - AFG
-
+  - AFG_Afghan_Royal_Army
+  - Army
+  - army
 -
  name: ALB_Royal_Albanian_Air_Force
  image: ALB_Royal_Albanian_Air_Force.png
  tags:
   - ALB
+  - ALB_Royal_Albanian_Air_Force
+  - Air
+  - air
+-
+ name: ALB_Royal_Albanian_Army
+ image: ALB_Royal_Albanian_Army.png
+ tags:
+  - ALB
+  - ALB_Royal_Albanian_Army
+  - Army
+  - army
+-
+ name: ALB_Royal_Albanian_Navy
+ image: ALB_Royal_Albanian_Navy.png
+ tags:
+  - ALB
+  - ALB_Royal_Albanian_Navy
+  - Navy
+  - navy
+-
+ name: AST_Australian_Air_Force
+ image: AST_Australian_Air_Force.png
+ tags:
+  - AST
+  - AST_Australian_Air_Force
+  - Air
+  - air
+-
+ name: AST_Australian_Army
+ image: AST_Australian_Army.png
+ tags:
+  - AST
+  - AST_Australian_Army
+  - Army
+  - army
+-
+ name: AST_Bush_Warriors
+ image: AST_Bush_Warriors.png
+ tags:
+  - AST
+  - AST_Bush_Warriors
+-
+ name: AST_Royal_Australian_Navy
+ image: AST_Royal_Australian_Navy.png
+ tags:
+  - AST
+  - AST_Royal_Australian_Navy
+  - Navy
+  - navy
+-
+ name: AUS_Austro-Hungarian_Aviation_Troops
+ image: AUS_Austro-Hungarian_Aviation_Troops.png
+ tags:
+  - AUS
+  - AUS_Austro-Hungarian_Aviation_Troops
+-
+ name: AUS_Austro-Hungarian_Navy
+ image: AUS_Austro-Hungarian_Navy.png
+ tags:
+  - AUS
+  - AUS_Austro-Hungarian_Navy
+  - Navy
+  - navy
+-
+ name: AUS_Austro_Hungarian_Army
+ image: AUS_Austro_Hungarian_Army.png
+ tags:
+  - AUS
+  - AUS_Austro_Hungarian_Army
+  - Army
+  - army
+-
+ name: AUS_Bundesheer
+ image: AUS_Bundesheer.png
+ tags:
+  - AUS
+  - AUS_Bundesheer
+-
+ name: AUS_Kriegsmarine
+ image: AUS_Kriegsmarine.png
+ tags:
+  - AUS
+  - AUS_Kriegsmarine
+-
+ name: AUS_Luftstreitkrafte
+ image: AUS_Luftstreitkrafte.png
+ tags:
+  - AUS
+  - AUS_Luftstreitkrafte
+-
+ name: BEL_Belgian_Air_Service
+ image: BEL_Belgian_Air_Service.png
+ tags:
+  - BEL
+  - BEL_Belgian_Air_Service
+  - Air
+  - air
+-
+ name: BEL_Belgian_Army
+ image: BEL_Belgian_Army.png
+ tags:
+  - BEL
+  - BEL_Belgian_Army
+  - Army
+  - army
+-
+ name: BEL_Belgian_Navy
+ image: BEL_Belgian_Navy.png
+ tags:
+  - BEL
+  - BEL_Belgian_Navy
+  - Navy
+  - navy
+-
+ name: BHU_Bhutanese_Army
+ image: BHU_Bhutanese_Army.png
+ tags:
+  - BHU
+  - BHU_Bhutanese_Army
+  - Army
+  - army
+-
+ name: BUL_Aleksandar_Tsankov
+ image: BUL_Aleksandar_Tsankov.png
+ tags:
+  - BUL
+  - BUL_Aleksandar_Tsankov
+-
+ name: BUL_Appoint_Loyal_Officials
+ image: BUL_Appoint_Loyal_Officials.png
+ tags:
+  - BUL
+  - BUL_Appoint_Loyal_Officials
+-
+ name: BUL_Ban_Political_Parties_and_Unions
+ image: BUL_Ban_Political_Parties_and_Unions.png
+ tags:
+  - BUL
+  - BUL_Ban_Political_Parties_and_Unions
+-
+ name: BUL_Bulgarian_Air_Force
+ image: BUL_Bulgarian_Air_Force.png
+ tags:
+  - BUL
+  - BUL_Bulgarian_Air_Force
+  - Air
+  - air
+-
+ name: BUL_Bulgarian_Army
+ image: BUL_Bulgarian_Army.png
+ tags:
+  - BUL
+  - BUL_Bulgarian_Army
+  - Army
+  - army
+-
+ name: BUL_Bulgarian_Credit_Bank
+ image: BUL_Bulgarian_Credit_Bank.png
+ tags:
+  - BUL
+  - BUL_Bulgarian_Credit_Bank
+-
+ name: BUL_Bulgarian_Navy
+ image: BUL_Bulgarian_Navy.png
+ tags:
+  - BUL
+  - BUL_Bulgarian_Navy
+  - Navy
+  - navy
+-
+ name: BUL_Compulsory_Education
+ image: BUL_Compulsory_Education.png
+ tags:
+  - BUL
+  - BUL_Compulsory_Education
+-
+ name: BUL_Crack_Down_on_the_BCP
+ image: BUL_Crack_Down_on_the_BCP.png
+ tags:
+  - BUL
+  - BUL_Crack_Down_on_the_BCP
+-
+ name: BUL_Dissolve_the_National_Assembly
+ image: BUL_Dissolve_the_National_Assembly.png
+ tags:
+  - BUL
+  - BUL_Dissolve_the_National_Assembly
+-
+ name: BUL_Establish_Pro_Government_Unions
+ image: BUL_Establish_Pro_Government_Unions.png
+ tags:
+  - BUL
+  - BUL_Establish_Pro_Government_Unions
+-
+ name: BUL_Fatherland_Front_Coup
+ image: BUL_Fatherland_Front_Coup.png
+ tags:
+  - BUL
+  - BUL_Fatherland_Front_Coup
+-
+ name: BUL_Form_the_Directorate_of_Public_Renewal
+ image: BUL_Form_the_Directorate_of_Public_Renewal.png
+ tags:
+  - BUL
+  - BUL_Form_the_Directorate_of_Public_Renewal
+-
+ name: BUL_Greater_Bulgaria
+ image: BUL_Greater_Bulgaria.png
+ tags:
+  - BUL
+  - BUL_Greater_Bulgaria
+-
+ name: BUL_Hristo_Lukov
+ image: BUL_Hristo_Lukov.png
+ tags:
+  - BUL
+  - BUL_Hristo_Lukov
+-
+ name: BUL_Improve_Relations_with_Yugoslavia
+ image: BUL_Improve_Relations_with_Yugoslavia.png
+ tags:
+  - BUL
+  - BUL_Improve_Relations_with_Yugoslavia
+-
+ name: BUL_Na_Nozh
+ image: BUL_Na_Nozh.png
+ tags:
+  - BUL
+  - BUL_Na_Nozh
+-
+ name: BUL_NSM_Supremacy
+ image: BUL_NSM_Supremacy.png
+ tags:
+  - BUL
+  - BUL_NSM_Supremacy
+-
+ name: BUL_Obliterate_IMRO
+ image: BUL_Obliterate_IMRO.png
+ tags:
+  - BUL
+  - BUL_Obliterate_IMRO
+-
+ name: BUL_Reform_Welfare_and_Education
+ image: BUL_Reform_Welfare_and_Education.png
+ tags:
+  - BUL
+  - BUL_Reform_Welfare_and_Education
+-
+ name: BUL_Remilitarization_of_Bulgaria
+ image: BUL_Remilitarization_of_Bulgaria.png
+ tags:
+  - BUL
+  - BUL_Remilitarization_of_Bulgaria
+-
+ name: BUL_Takeover_of_Grain_Alcohol_and_Tobacco
+ image: BUL_Takeover_of_Grain_Alcohol_and_Tobacco.png
+ tags:
+  - BUL
+  - BUL_Takeover_of_Grain_Alcohol_and_Tobacco
+-
+ name: BUL_The_Schism_in_the_Military_Union
+ image: BUL_The_Schism_in_the_Military_Union.png
+ tags:
+  - BUL
+  - BUL_The_Schism_in_the_Military_Union
+-
+ name: BUL_UBNL_Youth_Legion
+ image: BUL_UBNL_Youth_Legion.png
+ tags:
+  - BUL
+  - BUL_UBNL_Youth_Legion
+-
+ name: BUL_Zveno_Coup
+ image: BUL_Zveno_Coup.png
+ tags:
+  - BUL
+  - BUL_Zveno_Coup
+-
+ name: CAN_Royal_Canadian_Air_Force
+ image: CAN_Royal_Canadian_Air_Force.png
+ tags:
+  - CAN
+  - CAN_Royal_Canadian_Air_Force
+  - Air
+  - air
+-
+ name: CAN_Royal_Canadian_Army
+ image: CAN_Royal_Canadian_Army.png
+ tags:
+  - CAN
+  - CAN_Royal_Canadian_Army
+  - Army
+  - army
+-
+ name: CAN_Royal_Canadian_Navy
+ image: CAN_Royal_Canadian_Navy.png
+ tags:
+  - CAN
+  - CAN_Royal_Canadian_Navy
+  - Navy
+  - navy
+-
+ name: CHI_Chinese_Church
+ image: CHI_Chinese_Church.png
+ tags:
+  - CHI
+  - CHI_Chinese_Church
+-
+ name: CHI_Chinese_National_Air_Force
+ image: CHI_Chinese_National_Air_Force.png
+ tags:
+  - CHI
+  - CHI_Chinese_National_Air_Force
+  - Air
+  - air
+-
+ name: CHI_Chinese_National_Army
+ image: CHI_Chinese_National_Army.png
+ tags:
+  - CHI
+  - CHI_Chinese_National_Army
+  - Army
+  - army
+-
+ name: CHI_Chinese_National_Navy
+ image: CHI_Chinese_National_Navy.png
+ tags:
+  - CHI
+  - CHI_Chinese_National_Navy
+  - Navy
+  - navy
+-
+ name: CHI_Coerce_Shanghai_Merchants
+ image: CHI_Coerce_Shanghai_Merchants.png
+ tags:
+  - CHI
+  - CHI_Coerce_Shanghai_Merchants
+-
+ name: CHI_Commission_for_Industry_and_Mining
+ image: CHI_Commission_for_Industry_and_Mining.png
+ tags:
+  - CHI
+  - CHI_Commission_for_Industry_and_Mining
+-
+ name: CHI_Defense_of_the_Great_Wall
+ image: CHI_Defense_of_the_Great_Wall.png
+ tags:
+  - CHI
+  - CHI_Defense_of_the_Great_Wall
+-
+ name: CHI_Dragon_Awake
+ image: CHI_Dragon_Awake.png
+ tags:
+  - CHI
+  - CHI_Dragon_Awake
+-
+ name: CHI_Dragon_Awakens
+ image: CHI_Dragon_Awakens.png
+ tags:
+  - CHI
+  - CHI_Dragon_Awakens
+-
+ name: CHI_Hans_von_Seeckt_Visit
+ image: CHI_Hans_von_Seeckt_Visit.png
+ tags:
+  - CHI
+  - CHI_Hans_von_Seeckt_Visit
+-
+ name: CHI_Limit_Kuomintang_Membership
+ image: CHI_Limit_Kuomintang_Membership.png
+ tags:
+  - CHI
+  - CHI_Limit_Kuomintang_Membership
+-
+ name: CHI_Minquan
+ image: CHI_Minquan.png
+ tags:
+  - CHI
+  - CHI_Minquan
+-
+ name: CHI_Minsheng
+ image: CHI_Minsheng.png
+ tags:
+  - CHI
+  - CHI_Minsheng
+-
+ name: CHI_Minzu
+ image: CHI_Minzu.png
+ tags:
+  - CHI
+  - CHI_Minzu
+-
+ name: CHI_Promote_Competent_Officers
+ image: CHI_Promote_Competent_Officers.png
+ tags:
+  - CHI
+  - CHI_Promote_Competent_Officers
+-
+ name: CHI_Single_Party
+ image: CHI_Single_Party.png
+ tags:
+  - CHI
+  - CHI_Single_Party
+-
+ name: CHI_Sino_German_Cooperation
+ image: CHI_Sino_German_Cooperation.png
+ tags:
+  - CHI
+  - CHI_Sino_German_Cooperation
+-
+ name: CHI_Three_Principles_of_the_People
+ image: CHI_Three_Principles_of_the_People.png
+ tags:
+  - CHI
+  - CHI_Three_Principles_of_the_People
+-
+ name: CHI_Treat_The_Heart_Disease
+ image: CHI_Treat_The_Heart_Disease.png
+ tags:
+  - CHI
+  - CHI_Treat_The_Heart_Disease
+-
+ name: CHI_Xian_Incident
+ image: CHI_Xian_Incident.png
+ tags:
+  - CHI
+  - CHI_Xian_Incident
+-
+ name: CRO_Croatian_Airforce
+ image: CRO_Croatian_Airforce.png
+ tags:
+  - CRO
+  - CRO_Croatian_Airforce
+-
+ name: CRO_Croatian_Armed_Forces
+ image: CRO_Croatian_Armed_Forces.png
+ tags:
+  - CRO
+  - CRO_Croatian_Armed_Forces
+-
+ name: CRO_Croatian_Home_Guard
+ image: CRO_Croatian_Home_Guard.png
+ tags:
+  - CRO
+  - CRO_Croatian_Home_Guard
+-
+ name: CRO_Croatian_Navy
+ image: CRO_Croatian_Navy.png
+ tags:
+  - CRO
+  - CRO_Croatian_Navy
+  - Navy
+  - navy
+-
+ name: CRO_Hrvatska_Rise_Up
+ image: CRO_Hrvatska_Rise_Up.png
+ tags:
+  - CRO
+  - CRO_Hrvatska_Rise_Up
+-
+ name: CRO_The_Black_Legion
+ image: CRO_The_Black_Legion.png
+ tags:
+  - CRO
+  - CRO_The_Black_Legion
+-
+ name: CRO_The_Ustase_Within_Our_State
+ image: CRO_The_Ustase_Within_Our_State.png
+ tags:
+  - CRO
+  - CRO_The_Ustase_Within_Our_State
+-
+ name: CRO_Zivio_Ante_Pavelic
+ image: CRO_Zivio_Ante_Pavelic.png
+ tags:
+  - CRO
+  - CRO_Zivio_Ante_Pavelic
+-
+ name: CZE_Czechoslovak_Air_Force
+ image: CZE_Czechoslovak_Air_Force.png
+ tags:
+  - CZE
+  - CZE_Czechoslovak_Air_Force
+  - Air
+  - air
+-
+ name: CZE_Czechoslovak_Army
+ image: CZE_Czechoslovak_Army.png
+ tags:
+  - CZE
+  - CZE_Czechoslovak_Army
+  - Army
+  - army
+-
+ name: CZE_Czechoslovak_Navy
+ image: CZE_Czechoslovak_Navy.png
+ tags:
+  - CZE
+  - CZE_Czechoslovak_Navy
+  - Navy
+  - navy
+-
+ name: DDR_Auferstanden_Aus_Ruinen
+ image: DDR_Auferstanden_Aus_Ruinen.png
+ tags:
+  - DDR
+  - DDR_Auferstanden_Aus_Ruinen
+-
+ name: DDR_German_Soviet_Rep
+ image: DDR_German_Soviet_Rep.png
+ tags:
+  - DDR
+  - DDR_German_Soviet_Rep
+-
+ name: DDR_KPD_Cabinet
+ image: DDR_KPD_Cabinet.png
+ tags:
+  - DDR
+  - DDR_KPD_Cabinet
+-
+ name: DDR_Luftstreitkrafte_der_NVA
+ image: DDR_Luftstreitkrafte_der_NVA.png
+ tags:
+  - DDR
+  - DDR_Luftstreitkrafte_der_NVA
+-
+ name: DDR_Militarize_Antifa
+ image: DDR_Militarize_Antifa.png
+ tags:
+  - DDR
+  - DDR_Militarize_Antifa
+-
+ name: DDR_Ministerium_fur_Staatssicherheit
+ image: DDR_Ministerium_fur_Staatssicherheit.png
+ tags:
+  - DDR
+  - DDR_Ministerium_fur_Staatssicherheit
+-
+ name: DDR_Nationale_Volksarmee
+ image: DDR_Nationale_Volksarmee.png
+ tags:
+  - DDR
+  - DDR_Nationale_Volksarmee
+-
+ name: DDR_NVA_Land_Forces
+ image: DDR_NVA_Land_Forces.png
+ tags:
+  - DDR
+  - DDR_NVA_Land_Forces
+-
+ name: DDR_Volksmarine
+ image: DDR_Volksmarine.png
+ tags:
+  - DDR
+  - DDR_Volksmarine
+-
+ name: DEN_Royal_Danish_Air_Force
+ image: DEN_Royal_Danish_Air_Force.png
+ tags:
+  - DEN
+  - DEN_Royal_Danish_Air_Force
+  - Air
+  - air
+-
+ name: DEN_Royal_Danish_Army
+ image: DEN_Royal_Danish_Army.png
+ tags:
+  - DEN
+  - DEN_Royal_Danish_Army
+  - Army
+  - army
+-
+ name: DEN_Royal_Danish_Navy
+ image: DEN_Royal_Danish_Navy.png
+ tags:
+  - DEN
+  - DEN_Royal_Danish_Navy
+  - Navy
+  - navy
+-
+ name: ENG_African_Sun
+ image: ENG_African_Sun.png
+ tags:
+  - ENG
+  - ENG_African_Sun
+-
+ name: ENG_Angevin_Hegemony
+ image: ENG_Angevin_Hegemony.png
+ tags:
+  - ENG
+  - ENG_Angevin_Hegemony
+-
+ name: ENG_Assist_the_Manhattan_Project
+ image: ENG_Assist_the_Manhattan_Project.png
+ tags:
+  - ENG
+  - ENG_Assist_the_Manhattan_Project
+-
+ name: ENG_A_Commitment_To_Peace
+ image: ENG_A_Commitment_To_Peace.png
+ tags:
+  - ENG
+  - ENG_A_Commitment_To_Peace
+-
+ name: ENG_Bletchley_Park
+ image: ENG_Bletchley_Park.png
+ tags:
+  - ENG
+  - ENG_Bletchley_Park
+-
+ name: ENG_Bomber_Command
+ image: ENG_Bomber_Command.png
+ tags:
+  - ENG
+  - ENG_Bomber_Command
+-
+ name: ENG_Britannia_Rule_the_Waves
+ image: ENG_Britannia_Rule_the_Waves.png
+ tags:
+  - ENG
+  - ENG_Britannia_Rule_the_Waves
+-
+ name: ENG_British_Army
+ image: ENG_British_Army.png
+ tags:
+  - ENG
+  - ENG_British_Army
+  - Army
+  - army
+-
+ name: ENG_BSA_Company
+ image: ENG_BSA_Company.png
+ tags:
+  - ENG
+  - ENG_BSA_Company
+-
+ name: ENG_Burma_Road
+ image: ENG_Burma_Road.png
+ tags:
+  - ENG
+  - ENG_Burma_Road
+-
+ name: ENG_Chain_Home
+ image: ENG_Chain_Home.png
+ tags:
+  - ENG
+  - ENG_Chain_Home
+-
+ name: ENG_Containing_Mosley
+ image: ENG_Containing_Mosley.png
+ tags:
+  - ENG
+  - ENG_Containing_Mosley
+-
+ name: ENG_Cruiser_Tank
+ image: ENG_Cruiser_Tank.png
+ tags:
+  - ENG
+  - ENG_Cruiser_Tank
+-
+ name: ENG_Development_of_the_League_Mandates
+ image: ENG_Development_of_the_League_Mandates.png
+ tags:
+  - ENG
+  - ENG_Development_of_the_League_Mandates
+-
+ name: ENG_Dowding_System
+ image: ENG_Dowding_System.png
+ tags:
+  - ENG
+  - ENG_Dowding_System
+-
+ name: ENG_Empire_Air_Training_Scheme
+ image: ENG_Empire_Air_Training_Scheme.png
+ tags:
+  - ENG
+  - ENG_Empire_Air_Training_Scheme
+  - Air
+  - air
+-
+ name: ENG_Fighter_Command
+ image: ENG_Fighter_Command.png
+ tags:
+  - ENG
+  - ENG_Fighter_Command
+-
+ name: ENG_Fleet_Air_Arm
+ image: ENG_Fleet_Air_Arm.png
+ tags:
+  - ENG
+  - ENG_Fleet_Air_Arm
+  - Air
+  - air
+-
+ name: ENG_Four_Power_Act
+ image: ENG_Four_Power_Act.png
+ tags:
+  - ENG
+  - ENG_Four_Power_Act
+-
+ name: ENG_General_Elections
+ image: ENG_General_Elections.png
+ tags:
+  - ENG
+  - ENG_General_Elections
+-
+ name: ENG_Halifax
+ image: ENG_Halifax.png
+ tags:
+  - ENG
+  - ENG_Halifax
+-
+ name: ENG_Hurricane
+ image: ENG_Hurricane.png
+ tags:
+  - ENG
+  - ENG_Hurricane
+-
+ name: ENG_India_and_Beyond
+ image: ENG_India_and_Beyond.png
+ tags:
+  - ENG
+  - ENG_India_and_Beyond
+-
+ name: ENG_Infantry_Tank
+ image: ENG_Infantry_Tank.png
+ tags:
+  - ENG
+  - ENG_Infantry_Tank
+-
+ name: ENG_Invest_in_our_Dominions
+ image: ENG_Invest_in_our_Dominions.png
+ tags:
+  - ENG
+  - ENG_Invest_in_our_Dominions
+-
+ name: ENG_MAUD_Committee
+ image: ENG_MAUD_Committee.png
+ tags:
+  - ENG
+  - ENG_MAUD_Committee
+-
+ name: ENG_Oriental_Bulwark
+ image: ENG_Oriental_Bulwark.png
+ tags:
+  - ENG
+  - ENG_Oriental_Bulwark
+-
+ name: ENG_Pacific_Fleet_Carriers
+ image: ENG_Pacific_Fleet_Carriers.png
+ tags:
+  - ENG
+  - ENG_Pacific_Fleet_Carriers
+-
+ name: ENG_Peace_in_Our_Time
+ image: ENG_Peace_in_Our_Time.png
+ tags:
+  - ENG
+  - ENG_Peace_in_Our_Time
+-
+ name: ENG_RAF
+ image: ENG_RAF.png
+ tags:
+  - ENG
+  - ENG_RAF
+-
+ name: ENG_Red_Devils
+ image: ENG_Red_Devils.png
+ tags:
+  - ENG
+  - ENG_Red_Devils
+-
+ name: ENG_Reinforce_the_Commonwealth
+ image: ENG_Reinforce_the_Commonwealth.png
+ tags:
+  - ENG
+  - ENG_Reinforce_the_Commonwealth
+-
+ name: ENG_Resignation_of_Ramsay
+ image: ENG_Resignation_of_Ramsay.png
+ tags:
+  - ENG
+  - ENG_Resignation_of_Ramsay
+-
+ name: ENG_Royal_Marines
+ image: ENG_Royal_Marines.png
+ tags:
+  - ENG
+  - ENG_Royal_Marines
+-
+ name: ENG_Royal_Navy
+ image: ENG_Royal_Navy.png
+ tags:
+  - ENG
+  - ENG_Royal_Navy
+  - Navy
+  - navy
+-
+ name: ENG_RR_Jet
+ image: ENG_RR_Jet.png
+ tags:
+  - ENG
+  - ENG_RR_Jet
+-
+ name: ENG_SAS
+ image: ENG_SAS.png
+ tags:
+  - ENG
+  - ENG_SAS
+-
+ name: ENG_Spitfire
+ image: ENG_Spitfire.png
+ tags:
+  - ENG
+  - ENG_Spitfire
+-
+ name: ENG_Submarine_Service
+ image: ENG_Submarine_Service.png
+ tags:
+  - ENG
+  - ENG_Submarine_Service
+-
+ name: ENG_Sub_Saharan_Investment
+ image: ENG_Sub_Saharan_Investment.png
+ tags:
+  - ENG
+  - ENG_Sub_Saharan_Investment
+-
+ name: ENG_The_Future_Of_Warfare
+ image: ENG_The_Future_Of_Warfare.png
+ tags:
+  - ENG
+  - ENG_The_Future_Of_Warfare
+-
+ name: ENG_The_Old_Lion_Defies_His_Foes
+ image: ENG_The_Old_Lion_Defies_His_Foes.png
+ tags:
+  - ENG
+  - ENG_The_Old_Lion_Defies_His_Foes
+-
+ name: ENG_Tizard_Mission
+ image: ENG_Tizard_Mission.png
+ tags:
+  - ENG
+  - ENG_Tizard_Mission
+-
+ name: ENG_TORPEX
+ image: ENG_TORPEX.png
+ tags:
+  - ENG
+  - ENG_TORPEX
+-
+ name: ENG_Uncle_Stanley
+ image: ENG_Uncle_Stanley.png
+ tags:
+  - ENG
+  - ENG_Uncle_Stanley
+-
+ name: ENG_V_Bombers
+ image: ENG_V_Bombers.png
+ tags:
+  - ENG
+  - ENG_V_Bombers
+-
+ name: ENG_Woolworth_Carriers
+ image: ENG_Woolworth_Carriers.png
+ tags:
+  - ENG
+  - ENG_Woolworth_Carriers
+-
+ name: EST_Estonian_Air_Force
+ image: EST_Estonian_Air_Force.png
+ tags:
+  - EST
+  - EST_Estonian_Air_Force
+  - Air
+  - air
+-
+ name: EST_Estonian_Land_Forces
+ image: EST_Estonian_Land_Forces.png
+ tags:
+  - EST
+  - EST_Estonian_Land_Forces
+-
+ name: EST_Estonian_Navy
+ image: EST_Estonian_Navy.png
+ tags:
+  - EST
+  - EST_Estonian_Navy
+  - Navy
+  - navy
+-
+ name: ETH_Cult_of_Personality
+ image: ETH_Cult_of_Personality.png
+ tags:
+  - ETH
+  - ETH_Cult_of_Personality
+-
+ name: ETH_Ethiopian_Imperial_Army
+ image: ETH_Ethiopian_Imperial_Army.png
+ tags:
+  - ETH
+  - ETH_Ethiopian_Imperial_Army
+  - Army
+  - army
+-
+ name: ETH_Imperial_Ethiopian_Air_Force
+ image: ETH_Imperial_Ethiopian_Air_Force.png
+ tags:
+  - ETH
+  - ETH_Imperial_Ethiopian_Air_Force
+  - Air
+  - air
+-
+ name: ETH_Imperial_Ethiopian_Navy
+ image: ETH_Imperial_Ethiopian_Navy.png
+ tags:
+  - ETH
+  - ETH_Imperial_Ethiopian_Navy
+  - Navy
+  - navy
+-
+ name: ETH_Legacy_of_Solomon
+ image: ETH_Legacy_of_Solomon.png
+ tags:
+  - ETH
+  - ETH_Legacy_of_Solomon
+-
+ name: ETH_Mobilize_the_Zebenya
+ image: ETH_Mobilize_the_Zebenya.png
+ tags:
+  - ETH
+  - ETH_Mobilize_the_Zebenya
+-
+ name: ETH_The_Lion_of_Africa
+ image: ETH_The_Lion_of_Africa.png
+ tags:
+  - ETH
+  - ETH_The_Lion_of_Africa
+-
+ name: ETH_The_Lion_of_Judah
+ image: ETH_The_Lion_of_Judah.png
+ tags:
+  - ETH
+  - ETH_The_Lion_of_Judah
+-
+ name: ETS_Establish_East_Turkestan
+ image: ETS_Establish_East_Turkestan.png
+ tags:
+  - ETS
+  - ETS_Establish_East_Turkestan
+-
+ name: ETS_The_Islamic_Republic
+ image: ETS_The_Islamic_Republic.png
+ tags:
+  - ETS
+  - ETS_The_Islamic_Republic
+-
+ name: ETS_The_Khotan_Emirate
+ image: ETS_The_Khotan_Emirate.png
+ tags:
+  - ETS
+  - ETS_The_Khotan_Emirate
+-
+ name: ETS_The_Republic
+ image: ETS_The_Republic.png
+ tags:
+  - ETS
+  - ETS_The_Republic
+-
+ name: FIN_Ban_the_IKL
+ image: FIN_Ban_the_IKL.png
+ tags:
+  - FIN
+  - FIN_Ban_the_IKL
+-
+ name: FIN_Centrist_Government
+ image: FIN_Centrist_Government.png
+ tags:
+  - FIN
+  - FIN_Centrist_Government
+-
+ name: FIN_Constrain_Presidential_Powers
+ image: FIN_Constrain_Presidential_Powers.png
+ tags:
+  - FIN
+  - FIN_Constrain_Presidential_Powers
+-
+ name: FIN_Contain_IKL
+ image: FIN_Contain_IKL.png
+ tags:
+  - FIN
+  - FIN_Contain_IKL
+-
+ name: FIN_Finnish_Air_Force
+ image: FIN_Finnish_Air_Force.png
+ tags:
+  - FIN
+  - FIN_Finnish_Air_Force
+  - Air
+  - air
+-
+ name: FIN_Finnish_Army
+ image: FIN_Finnish_Army.png
+ tags:
+  - FIN
+  - FIN_Finnish_Army
+  - Army
+  - army
+-
+ name: FIN_Finnish_Navy
+ image: FIN_Finnish_Navy.png
+ tags:
+  - FIN
+  - FIN_Finnish_Navy
+  - Navy
+  - navy
+-
+ name: FIN_Kivimaki_Cabinet
+ image: FIN_Kivimaki_Cabinet.png
+ tags:
+  - FIN
+  - FIN_Kivimaki_Cabinet
+-
+ name: FIN_Mannerheims_Military_Government
+ image: FIN_Mannerheims_Military_Government.png
+ tags:
+  - FIN
+  - FIN_Mannerheims_Military_Government
+-
+ name: FIN_Mannerheim_Line
+ image: FIN_Mannerheim_Line.png
+ tags:
+  - FIN
+  - FIN_Mannerheim_Line
+-
+ name: FIN_President_Rytis_Government
+ image: FIN_President_Rytis_Government.png
+ tags:
+  - FIN
+  - FIN_President_Rytis_Government
+-
+ name: FIN_Red_Agrarian_Coalition
+ image: FIN_Red_Agrarian_Coalition.png
+ tags:
+  - FIN
+  - FIN_Red_Agrarian_Coalition
+-
+ name: FIN_Ski_Units
+ image: FIN_Ski_Units.png
+ tags:
+  - FIN
+  - FIN_Ski_Units
+-
+ name: FRA_1936_Elections
+ image: FRA_1936_Elections.png
+ tags:
+  - FRA
+  - FRA_1936_Elections
+-
+ name: FRA_Adopt_Fequants_Ideas
+ image: FRA_Adopt_Fequants_Ideas.png
+ tags:
+  - FRA
+  - FRA_Adopt_Fequants_Ideas
+-
+ name: FRA_Afrique_Francaise
+ image: FRA_Afrique_Francaise.png
+ tags:
+  - FRA
+  - FRA_Afrique_Francaise
+-
+ name: FRA_Algerie_Francaise
+ image: FRA_Algerie_Francaise.png
+ tags:
+  - FRA
+  - FRA_Algerie_Francaise
+-
+ name: FRA_Armee_de_L_Air
+ image: FRA_Armee_de_L_Air.png
+ tags:
+  - FRA
+  - FRA_Armee_de_L_Air
+  - Air
+  - air
+-
+ name: FRA_Armee_de_Terre
+ image: FRA_Armee_de_Terre.png
+ tags:
+  - FRA
+  - FRA_Armee_de_Terre
+-
+ name: FRA_Barthou_Doctrine
+ image: FRA_Barthou_Doctrine.png
+ tags:
+  - FRA
+  - FRA_Barthou_Doctrine
+-
+ name: FRA_Central_Committee_of_the_Stock_Exchange
+ image: FRA_Central_Committee_of_the_Stock_Exchange.png
+ tags:
+  - FRA
+  - FRA_Central_Committee_of_the_Stock_Exchange
+-
+ name: FRA_Colonial_Empire
+ image: FRA_Colonial_Empire.png
+ tags:
+  - FRA
+  - FRA_Colonial_Empire
+-
+ name: FRA_Commune
+ image: FRA_Commune.png
+ tags:
+  - FRA
+  - FRA_Commune
+-
+ name: FRA_Commune_Decolonization
+ image: FRA_Commune_Decolonization.png
+ tags:
+  - FRA
+  - FRA_Commune_Decolonization
+-
+ name: FRA_Constitute_a_Marechaliste_Front
+ image: FRA_Constitute_a_Marechaliste_Front.png
+ tags:
+  - FRA
+  - FRA_Constitute_a_Marechaliste_Front
+-
+ name: FRA_Constitution
+ image: FRA_Constitution.png
+ tags:
+  - FRA
+  - FRA_Constitution
+-
+ name: FRA_Create_the_French_Regions
+ image: FRA_Create_the_French_Regions.png
+ tags:
+  - FRA
+  - FRA_Create_the_French_Regions
+-
+ name: FRA_Cut_The_Salaries_Of_Civil_Servants
+ image: FRA_Cut_The_Salaries_Of_Civil_Servants.png
+ tags:
+  - FRA
+  - FRA_Cut_The_Salaries_Of_Civil_Servants
+-
+ name: FRA_De_Gaulles_Offensive_Approach
+ image: FRA_De_Gaulles_Offensive_Approach.png
+ tags:
+  - FRA
+  - FRA_De_Gaulles_Offensive_Approach
+-
+ name: FRA_Dissolution_of_Armed_Militias
+ image: FRA_Dissolution_of_Armed_Militias.png
+ tags:
+  - FRA
+  - FRA_Dissolution_of_Armed_Militias
+-
+ name: FRA_Dissolve_the_Etoile_Nord_Africain
+ image: FRA_Dissolve_the_Etoile_Nord_Africain.png
+ tags:
+  - FRA
+  - FRA_Dissolve_the_Etoile_Nord_Africain
+-
+ name: FRA_Establish_the_Commissariat_au_Plan
+ image: FRA_Establish_the_Commissariat_au_Plan.png
+ tags:
+  - FRA
+  - FRA_Establish_the_Commissariat_au_Plan
+-
+ name: FRA_Establish_the_French_Regions
+ image: FRA_Establish_the_French_Regions.png
+ tags:
+  - FRA
+  - FRA_Establish_the_French_Regions
+-
+ name: FRA_Expand_the_Maginot
+ image: FRA_Expand_the_Maginot.png
+ tags:
+  - FRA
+  - FRA_Expand_the_Maginot
+-
+ name: FRA_Fearless_Nation
+ image: FRA_Fearless_Nation.png
+ tags:
+  - FRA
+  - FRA_Fearless_Nation
+-
+ name: FRA_Form_a_National_Union
+ image: FRA_Form_a_National_Union.png
+ tags:
+  - FRA
+  - FRA_Form_a_National_Union
+-
+ name: FRA_From_Above
+ image: FRA_From_Above.png
+ tags:
+  - FRA
+  - FRA_From_Above
+-
+ name: FRA_Futur_de_l_Empire
+ image: FRA_Futur_de_l_Empire.png
+ tags:
+  - FRA
+  - FRA_Futur_de_l_Empire
+-
+ name: FRA_Girauds_Defensive_Approach
+ image: FRA_Girauds_Defensive_Approach.png
+ tags:
+  - FRA
+  - FRA_Girauds_Defensive_Approach
+-
+ name: FRA_Indochine_Francaise
+ image: FRA_Indochine_Francaise.png
+ tags:
+  - FRA
+  - FRA_Indochine_Francaise
+-
+ name: FRA_Investments_in_Moroccan_Agriculture
+ image: FRA_Investments_in_Moroccan_Agriculture.png
+ tags:
+  - FRA
+  - FRA_Investments_in_Moroccan_Agriculture
+-
+ name: FRA_Keep_Vuillemin_In_Charge
+ image: FRA_Keep_Vuillemin_In_Charge.png
+ tags:
+  - FRA
+  - FRA_Keep_Vuillemin_In_Charge
+-
+ name: FRA_Launch_the_Tax_Reform
+ image: FRA_Launch_the_Tax_Reform.png
+ tags:
+  - FRA
+  - FRA_Launch_the_Tax_Reform
+-
+ name: FRA_Law_of_Fiscal_Discipline
+ image: FRA_Law_of_Fiscal_Discipline.png
+ tags:
+  - FRA
+  - FRA_Law_of_Fiscal_Discipline
+-
+ name: FRA_Legacy_of_Barthou
+ image: FRA_Legacy_of_Barthou.png
+ tags:
+  - FRA
+  - FRA_Legacy_of_Barthou
+-
+ name: FRA_Legion_Etrangere
+ image: FRA_Legion_Etrangere.png
+ tags:
+  - FRA
+  - FRA_Legion_Etrangere
+-
+ name: FRA_March_on_Paris
+ image: FRA_March_on_Paris.png
+ tags:
+  - FRA
+  - FRA_March_on_Paris
+-
+ name: FRA_Marine_Nationale
+ image: FRA_Marine_Nationale.png
+ tags:
+  - FRA
+  - FRA_Marine_Nationale
+-
+ name: FRA_National_Lottery
+ image: FRA_National_Lottery.png
+ tags:
+  - FRA
+  - FRA_National_Lottery
+-
+ name: FRA_New_Budget
+ image: FRA_New_Budget.png
+ tags:
+  - FRA
+  - FRA_New_Budget
+-
+ name: FRA_Revise_our_Foreign_Policy
+ image: FRA_Revise_our_Foreign_Policy.png
+ tags:
+  - FRA
+  - FRA_Revise_our_Foreign_Policy
+-
+ name: FRA_Revolution
+ image: FRA_Revolution.png
+ tags:
+  - FRA
+  - FRA_Revolution
+-
+ name: FRA_Safeguard_the_Republic
+ image: FRA_Safeguard_the_Republic.png
+ tags:
+  - FRA
+  - FRA_Safeguard_the_Republic
+-
+ name: FRA_Sanitize_Finances
+ image: FRA_Sanitize_Finances.png
+ tags:
+  - FRA
+  - FRA_Sanitize_Finances
+-
+ name: FRA_SFIO_PCF
+ image: FRA_SFIO_PCF.png
+ tags:
+  - FRA
+  - FRA_SFIO_PCF
+-
+ name: FRA_SFIO_PRRRS
+ image: FRA_SFIO_PRRRS.png
+ tags:
+  - FRA
+  - FRA_SFIO_PRRRS
+-
+ name: FRA_Spill_no_Blood
+ image: FRA_Spill_no_Blood.png
+ tags:
+  - FRA
+  - FRA_Spill_no_Blood
+-
+ name: FRA_Stavisky_Affair
+ image: FRA_Stavisky_Affair.png
+ tags:
+  - FRA
+  - FRA_Stavisky_Affair
+-
+ name: FRA_The_Constitution_of_Front_de_la_Liberte
+ image: FRA_The_Constitution_of_Front_de_la_Liberte.png
+ tags:
+  - FRA
+  - FRA_The_Constitution_of_Front_de_la_Liberte
+-
+ name: FRA_The_Destour_Question
+ image: FRA_The_Destour_Question.png
+ tags:
+  - FRA
+  - FRA_The_Destour_Question
+-
+ name: FRA_The_Paris_Line
+ image: FRA_The_Paris_Line.png
+ tags:
+  - FRA
+  - FRA_The_Paris_Line
+-
+ name: FRA_The_Reform_is_a_Success
+ image: FRA_The_Reform_is_a_Success.png
+ tags:
+  - FRA
+  - FRA_The_Reform_is_a_Success
+-
+ name: FRA_The_Reform_is_Rejected
+ image: FRA_The_Reform_is_Rejected.png
+ tags:
+  - FRA
+  - FRA_The_Reform_is_Rejected
+-
+ name: FRA_Victory_of_the_Popular_Front
+ image: FRA_Victory_of_the_Popular_Front.png
+ tags:
+  - FRA
+  - FRA_Victory_of_the_Popular_Front
+-
+ name: FRA_Victory_of_the_Republican_Coalition
+ image: FRA_Victory_of_the_Republican_Coalition.png
+ tags:
+  - FRA
+  - FRA_Victory_of_the_Republican_Coalition
+-
+ name: FRG_Bundeswehr
+ image: FRG_Bundeswehr.png
+ tags:
+  - FRG
+  - FRG_Bundeswehr
+-
+ name: FRG_Deutsches_Heer
+ image: FRG_Deutsches_Heer.png
+ tags:
+  - FRG
+  - FRG_Deutsches_Heer
+-
+ name: FRG_Deutsche_Marine
+ image: FRG_Deutsche_Marine.png
+ tags:
+  - FRG
+  - FRG_Deutsche_Marine
+-
+ name: FRG_Leopard_Program
+ image: FRG_Leopard_Program.png
+ tags:
+  - FRG
+  - FRG_Leopard_Program
+-
+ name: FRG_Luftwaffe
+ image: FRG_Luftwaffe.png
+ tags:
+  - FRG
+  - FRG_Luftwaffe
+-
+ name: GENERIC_Abolish_the_Agrarian_Decrees
+ image: GENERIC_Abolish_the_Agrarian_Decrees.png
+ tags:
+  - GENERIC
+  - GENERIC_Abolish_the_Agrarian_Decrees
+  - Generic
+  - generic
+-
+ name: Generic_ABomb
+ image: Generic_ABomb.png
+ tags:
+  - Generic
+  - Generic_ABomb
+  - Generic
+  - generic
+-
+ name: GENERIC_Agrarian_Reform
+ image: GENERIC_Agrarian_Reform.png
+ tags:
+  - GENERIC
+  - GENERIC_Agrarian_Reform
+  - Generic
+  - generic
+-
+ name: GENERIC_Aircraft_Cruiser
+ image: GENERIC_Aircraft_Cruiser.png
+ tags:
+  - GENERIC
+  - GENERIC_Aircraft_Cruiser
+  - Generic
+  - generic
+-
+ name: GENERIC_Air_Assault_Units
+ image: GENERIC_Air_Assault_Units.png
+ tags:
+  - GENERIC
+  - GENERIC_Air_Assault_Units
+  - Air
+  - air
+  - Generic
+  - generic
+-
+ name: Generic_Air_Force
+ image: Generic_Air_Force.png
+ tags:
+  - Generic
+  - Generic_Air_Force
+  - Air
+  - air
+  - Generic
+  - generic
+-
+ name: GENERIC_Animal_Husbandry
+ image: GENERIC_Animal_Husbandry.png
+ tags:
+  - GENERIC
+  - GENERIC_Animal_Husbandry
+  - Generic
+  - generic
+-
+ name: GENERIC_Anti_Air_Units
+ image: GENERIC_Anti_Air_Units.png
+ tags:
+  - GENERIC
+  - GENERIC_Anti_Air_Units
+  - Air
+  - air
+  - Generic
+  - generic
+-
+ name: GENERIC_Anti_Communism
+ image: GENERIC_Anti_Communism.png
+ tags:
+  - GENERIC
+  - GENERIC_Anti_Communism
+  - Generic
+  - generic
+-
+ name: GENERIC_Anti_Communism.png
+ image: GENERIC_Anti_Communism.png.png
+ tags:
+  - GENERIC
+  - GENERIC_Anti_Communism.png
+  - Generic
+  - generic
+-
+ name: GENERIC_Anti_Democracy
+ image: GENERIC_Anti_Democracy.png
+ tags:
+  - GENERIC
+  - GENERIC_Anti_Democracy
+  - Generic
+  - generic
+-
+ name: GENERIC_Anti_Democracy.png
+ image: GENERIC_Anti_Democracy.png.png
+ tags:
+  - GENERIC
+  - GENERIC_Anti_Democracy.png
+  - Generic
+  - generic
+-
+ name: GENERIC_Anti_Poverty_Campaign
+ image: GENERIC_Anti_Poverty_Campaign.png
+ tags:
+  - GENERIC
+  - GENERIC_Anti_Poverty_Campaign
+  - Generic
+  - generic
+-
+ name: GENERIC_An_Act_Of_Neutrality
+ image: GENERIC_An_Act_Of_Neutrality.png
+ tags:
+  - GENERIC
+  - GENERIC_An_Act_Of_Neutrality
+  - Generic
+  - generic
+-
+ name: Generic_Army
+ image: Generic_Army.png
+ tags:
+  - Generic
+  - Generic_Army
+  - Army
+  - army
+  - Generic
+  - generic
+-
+ name: GENERIC_ASW_Tactics
+ image: GENERIC_ASW_Tactics.png
+ tags:
+  - GENERIC
+  - GENERIC_ASW_Tactics
+  - Generic
+  - generic
+-
+ name: GENERIC_Attack_Sub
+ image: GENERIC_Attack_Sub.png
+ tags:
+  - GENERIC
+  - GENERIC_Attack_Sub
+  - Generic
+  - generic
+-
+ name: Generic_Austerity_Measures
+ image: Generic_Austerity_Measures.png
+ tags:
+  - Generic
+  - Generic_Austerity_Measures
+  - Generic
+  - generic
+-
+ name: Generic_Autarky
+ image: Generic_Autarky.png
+ tags:
+  - Generic
+  - Generic_Autarky
+  - Generic
+  - generic
+-
+ name: GENERIC_Banker_Coup
+ image: GENERIC_Banker_Coup.png
+ tags:
+  - GENERIC
+  - GENERIC_Banker_Coup
+  - Generic
+  - generic
+-
+ name: Generic_Base_Strike
+ image: Generic_Base_Strike.png
+ tags:
+  - Generic
+  - Generic_Base_Strike
+  - Generic
+  - generic
+-
+ name: Generic_Battleship
+ image: Generic_Battleship.png
+ tags:
+  - Generic
+  - Generic_Battleship
+  - Generic
+  - generic
+-
+ name: GENERIC_Burn_the_Parliament
+ image: GENERIC_Burn_the_Parliament.png
+ tags:
+  - GENERIC
+  - GENERIC_Burn_the_Parliament
+  - Generic
+  - generic
+-
+ name: GENERIC_Cabinet
+ image: GENERIC_Cabinet.png
+ tags:
+  - GENERIC
+  - GENERIC_Cabinet
+  - Generic
+  - generic
+-
+ name: Generic_Carrier
+ image: Generic_Carrier.png
+ tags:
+  - Generic
+  - Generic_Carrier
+  - Generic
+  - generic
+-
+ name: Generic_Catholic_Religious_School_Programs
+ image: Generic_Catholic_Religious_School_Programs.png
+ tags:
+  - Generic
+  - Generic_Catholic_Religious_School_Programs
+  - Generic
+  - generic
+-
+ name: GENERIC_Centralization
+ image: GENERIC_Centralization.png
+ tags:
+  - GENERIC
+  - GENERIC_Centralization
+  - Generic
+  - generic
+-
+ name: GENERIC_Coastal_Defense
+ image: GENERIC_Coastal_Defense.png
+ tags:
+  - GENERIC
+  - GENERIC_Coastal_Defense
+  - Generic
+  - generic
+-
+ name: GENERIC_Communist_Revolution
+ image: GENERIC_Communist_Revolution.png
+ tags:
+  - GENERIC
+  - GENERIC_Communist_Revolution
+  - Generic
+  - generic
+-
+ name: GENERIC_Continue_the_School_Program
+ image: GENERIC_Continue_the_School_Program.png
+ tags:
+  - GENERIC
+  - GENERIC_Continue_the_School_Program
+  - Generic
+  - generic
+-
+ name: Generic_Crackdown_on_the_Strikers
+ image: Generic_Crackdown_on_the_Strikers.png
+ tags:
+  - Generic
+  - Generic_Crackdown_on_the_Strikers
+  - Generic
+  - generic
+-
+ name: Generic_Cruiser
+ image: Generic_Cruiser.png
+ tags:
+  - Generic
+  - Generic_Cruiser
+  - Generic
+  - generic
+-
+ name: GENERIC_Curtail_the_Military
+ image: GENERIC_Curtail_the_Military.png
+ tags:
+  - GENERIC
+  - GENERIC_Curtail_the_Military
+  - Generic
+  - generic
+-
+ name: GENERIC_Decentralization
+ image: GENERIC_Decentralization.png
+ tags:
+  - GENERIC
+  - GENERIC_Decentralization
+  - Generic
+  - generic
+-
+ name: GENERIC_Depression
+ image: GENERIC_Depression.png
+ tags:
+  - GENERIC
+  - GENERIC_Depression
+  - Generic
+  - generic
+-
+ name: GENERIC_Design_Contemporary_Equipment_Standards
+ image: GENERIC_Design_Contemporary_Equipment_Standards.png
+ tags:
+  - GENERIC
+  - GENERIC_Design_Contemporary_Equipment_Standards
+  - Generic
+  - generic
+-
+ name: Generic_Destroyer
+ image: Generic_Destroyer.png
+ tags:
+  - Generic
+  - Generic_Destroyer
+  - Generic
+  - generic
+-
+ name: GENERIC_Dissolve_Fascist_Organizations
+ image: GENERIC_Dissolve_Fascist_Organizations.png
+ tags:
+  - GENERIC
+  - GENERIC_Dissolve_Fascist_Organizations
+  - Generic
+  - generic
+-
+ name: GENERIC_Dissolve_Small_Corporations
+ image: GENERIC_Dissolve_Small_Corporations.png
+ tags:
+  - GENERIC
+  - GENERIC_Dissolve_Small_Corporations
+  - Generic
+  - generic
+-
+ name: GENERIC_Dissolve_the_Parliament
+ image: GENERIC_Dissolve_the_Parliament.png
+ tags:
+  - GENERIC
+  - GENERIC_Dissolve_the_Parliament
+  - Generic
+  - generic
+-
+ name: GENERIC_Drafted_Army
+ image: GENERIC_Drafted_Army.png
+ tags:
+  - GENERIC
+  - GENERIC_Drafted_Army
+  - Army
+  - army
+  - Generic
+  - generic
+-
+ name: Generic_Draw_Borders
+ image: Generic_Draw_Borders.png
+ tags:
+  - Generic
+  - Generic_Draw_Borders
+  - Generic
+  - generic
+-
+ name: GENERIC_Economic_Cooperation
+ image: GENERIC_Economic_Cooperation.png
+ tags:
+  - GENERIC
+  - GENERIC_Economic_Cooperation
+  - Generic
+  - generic
+-
+ name: GENERIC_Electric_Grid
+ image: GENERIC_Electric_Grid.png
+ tags:
+  - GENERIC
+  - GENERIC_Electric_Grid
+  - Generic
+  - generic
+-
+ name: GENERIC_Expand_the_Canal
+ image: GENERIC_Expand_the_Canal.png
+ tags:
+  - GENERIC
+  - GENERIC_Expand_the_Canal
+  - Generic
+  - generic
+-
+ name: GENERIC_Expand_the_University
+ image: GENERIC_Expand_the_University.png
+ tags:
+  - GENERIC
+  - GENERIC_Expand_the_University
+  - Generic
+  - generic
+-
+ name: GENERIC_Factory_Takeover
+ image: GENERIC_Factory_Takeover.png
+ tags:
+  - GENERIC
+  - GENERIC_Factory_Takeover
+  - Generic
+  - generic
+-
+ name: Generic_Fleet_in_Being
+ image: Generic_Fleet_in_Being.png
+ tags:
+  - Generic
+  - Generic_Fleet_in_Being
+  - Generic
+  - generic
+-
+ name: GENERIC_Flight_School
+ image: GENERIC_Flight_School.png
+ tags:
+  - GENERIC
+  - GENERIC_Flight_School
+  - Generic
+  - generic
+-
+ name: GENERIC_Forced_Labour
+ image: GENERIC_Forced_Labour.png
+ tags:
+  - GENERIC
+  - GENERIC_Forced_Labour
+  - Generic
+  - generic
+-
+ name: GENERIC_Gliders
+ image: GENERIC_Gliders.png
+ tags:
+  - GENERIC
+  - GENERIC_Gliders
+  - Generic
+  - generic
+-
+ name: Generic_Gold
+ image: Generic_Gold.png
+ tags:
+  - Generic
+  - Generic_Gold
+  - Generic
+  - generic
+-
+ name: Generic_Grand_Battleplan
+ image: Generic_Grand_Battleplan.png
+ tags:
+  - Generic
+  - Generic_Grand_Battleplan
+  - Generic
+  - generic
+-
+ name: Generic_HBomb
+ image: Generic_HBomb.png
+ tags:
+  - Generic
+  - Generic_HBomb
+  - Generic
+  - generic
+-
+ name: GENERIC_Health_Care_Crescent
+ image: GENERIC_Health_Care_Crescent.png
+ tags:
+  - GENERIC
+  - GENERIC_Health_Care_Crescent
+  - Generic
+  - generic
+-
+ name: GENERIC_Health_Care_Investement
+ image: GENERIC_Health_Care_Investement.png
+ tags:
+  - GENERIC
+  - GENERIC_Health_Care_Investement
+  - Generic
+  - generic
+-
+ name: GENERIC_Heavy_Submarine
+ image: GENERIC_Heavy_Submarine.png
+ tags:
+  - GENERIC
+  - GENERIC_Heavy_Submarine
+  - Generic
+  - generic
+-
+ name: GENERIC_Hierarchical_Economics
+ image: GENERIC_Hierarchical_Economics.png
+ tags:
+  - GENERIC
+  - GENERIC_Hierarchical_Economics
+  - Generic
+  - generic
+-
+ name: GENERIC_High_Seas_Airforce
+ image: GENERIC_High_Seas_Airforce.png
+ tags:
+  - GENERIC
+  - GENERIC_High_Seas_Airforce
+  - Generic
+  - generic
+-
+ name: GENERIC_Housing_Campaign
+ image: GENERIC_Housing_Campaign.png
+ tags:
+  - GENERIC
+  - GENERIC_Housing_Campaign
+  - Generic
+  - generic
+-
+ name: GENERIC_Human_Experiments
+ image: GENERIC_Human_Experiments.png
+ tags:
+  - GENERIC
+  - GENERIC_Human_Experiments
+  - Generic
+  - generic
+-
+ name: GENERIC_Ideology_Anarcho_Communism
+ image: GENERIC_Ideology_Anarcho_Communism.png
+ tags:
+  - GENERIC
+  - GENERIC_Ideology_Anarcho_Communism
+  - Generic
+  - generic
+-
+ name: GENERIC_Ideology_Arab_Socialism
+ image: GENERIC_Ideology_Arab_Socialism.png
+ tags:
+  - GENERIC
+  - GENERIC_Ideology_Arab_Socialism
+  - Generic
+  - generic
+-
+ name: GENERIC_Ideology_Authoritarian_Democracy
+ image: GENERIC_Ideology_Authoritarian_Democracy.png
+ tags:
+  - GENERIC
+  - GENERIC_Ideology_Authoritarian_Democracy
+  - Generic
+  - generic
+-
+ name: GENERIC_Ideology_Clerical_Fascism
+ image: GENERIC_Ideology_Clerical_Fascism.png
+ tags:
+  - GENERIC
+  - GENERIC_Ideology_Clerical_Fascism
+  - Generic
+  - generic
+-
+ name: GENERIC_Ideology_Conservatism
+ image: GENERIC_Ideology_Conservatism.png
+ tags:
+  - GENERIC
+  - GENERIC_Ideology_Conservatism
+  - Generic
+  - generic
+-
+ name: GENERIC_Ideology_Democratic_Socialism
+ image: GENERIC_Ideology_Democratic_Socialism.png
+ tags:
+  - GENERIC
+  - GENERIC_Ideology_Democratic_Socialism
+  - Generic
+  - generic
+-
+ name: GENERIC_Ideology_Esoteric_National_Socialism
+ image: GENERIC_Ideology_Esoteric_National_Socialism.png
+ tags:
+  - GENERIC
+  - GENERIC_Ideology_Esoteric_National_Socialism
+  - Generic
+  - generic
+-
+ name: GENERIC_Ideology_Falangism
+ image: GENERIC_Ideology_Falangism.png
+ tags:
+  - GENERIC
+  - GENERIC_Ideology_Falangism
+  - Generic
+  - generic
+-
+ name: GENERIC_Ideology_Fascism
+ image: GENERIC_Ideology_Fascism.png
+ tags:
+  - GENERIC
+  - GENERIC_Ideology_Fascism
+  - Generic
+  - generic
+-
+ name: GENERIC_Ideology_Integralism
+ image: GENERIC_Ideology_Integralism.png
+ tags:
+  - GENERIC
+  - GENERIC_Ideology_Integralism
+  - Generic
+  - generic
+-
+ name: GENERIC_Ideology_Juche
+ image: GENERIC_Ideology_Juche.png
+ tags:
+  - GENERIC
+  - GENERIC_Ideology_Juche
+  - Generic
+  - generic
+-
+ name: GENERIC_Ideology_Labor_Zionism
+ image: GENERIC_Ideology_Labor_Zionism.png
+ tags:
+  - GENERIC
+  - GENERIC_Ideology_Labor_Zionism
+  - Generic
+  - generic
+-
+ name: GENERIC_Ideology_Legionarism
+ image: GENERIC_Ideology_Legionarism.png
+ tags:
+  - GENERIC
+  - GENERIC_Ideology_Legionarism
+  - Generic
+  - generic
+-
+ name: GENERIC_Ideology_Leninism
+ image: GENERIC_Ideology_Leninism.png
+ tags:
+  - GENERIC
+  - GENERIC_Ideology_Leninism
+  - Generic
+  - generic
+-
+ name: GENERIC_Ideology_Liberalism
+ image: GENERIC_Ideology_Liberalism.png
+ tags:
+  - GENERIC
+  - GENERIC_Ideology_Liberalism
+  - Generic
+  - generic
+-
+ name: GENERIC_Ideology_Luxemburgism
+ image: GENERIC_Ideology_Luxemburgism.png
+ tags:
+  - GENERIC
+  - GENERIC_Ideology_Luxemburgism
+  - Generic
+  - generic
+-
+ name: GENERIC_Ideology_Maoism
+ image: GENERIC_Ideology_Maoism.png
+ tags:
+  - GENERIC
+  - GENERIC_Ideology_Maoism
+  - Generic
+  - generic
+-
+ name: GENERIC_Ideology_Marhaenism
+ image: GENERIC_Ideology_Marhaenism.png
+ tags:
+  - GENERIC
+  - GENERIC_Ideology_Marhaenism
+  - Generic
+  - generic
+-
+ name: GENERIC_Ideology_Marxism_Leninism
+ image: GENERIC_Ideology_Marxism_Leninism.png
+ tags:
+  - GENERIC
+  - GENERIC_Ideology_Marxism_Leninism
+  - Generic
+  - generic
+-
+ name: GENERIC_Ideology_Metaxism
+ image: GENERIC_Ideology_Metaxism.png
+ tags:
+  - GENERIC
+  - GENERIC_Ideology_Metaxism
+  - Generic
+  - generic
+-
+ name: GENERIC_Ideology_Military_Dictatorship
+ image: GENERIC_Ideology_Military_Dictatorship.png
+ tags:
+  - GENERIC
+  - GENERIC_Ideology_Military_Dictatorship
+  - Generic
+  - generic
+-
+ name: GENERIC_Ideology_Monarchism
+ image: GENERIC_Ideology_Monarchism.png
+ tags:
+  - GENERIC
+  - GENERIC_Ideology_Monarchism
+  - Generic
+  - generic
+-
+ name: GENERIC_Ideology_National_Communism
+ image: GENERIC_Ideology_National_Communism.png
+ tags:
+  - GENERIC
+  - GENERIC_Ideology_National_Communism
+  - Generic
+  - generic
+-
+ name: GENERIC_Ideology_National_Socialism
+ image: GENERIC_Ideology_National_Socialism.png
+ tags:
+  - GENERIC
+  - GENERIC_Ideology_National_Socialism
+  - Generic
+  - generic
+-
+ name: GENERIC_Ideology_Revisionist_Maximalism
+ image: GENERIC_Ideology_Revisionist_Maximalism.png
+ tags:
+  - GENERIC
+  - GENERIC_Ideology_Revisionist_Maximalism
+  - Generic
+  - generic
+-
+ name: GENERIC_Ideology_Rexism
+ image: GENERIC_Ideology_Rexism.png
+ tags:
+  - GENERIC
+  - GENERIC_Ideology_Rexism
+  - Generic
+  - generic
+-
+ name: GENERIC_Ideology_Salafism
+ image: GENERIC_Ideology_Salafism.png
+ tags:
+  - GENERIC
+  - GENERIC_Ideology_Salafism
+  - Generic
+  - generic
+-
+ name: GENERIC_Ideology_Socialism
+ image: GENERIC_Ideology_Socialism.png
+ tags:
+  - GENERIC
+  - GENERIC_Ideology_Socialism
+  - Generic
+  - generic
+-
+ name: GENERIC_Ideology_Social_Democracy
+ image: GENERIC_Ideology_Social_Democracy.png
+ tags:
+  - GENERIC
+  - GENERIC_Ideology_Social_Democracy
+  - Generic
+  - generic
+-
+ name: GENERIC_Ideology_Stalinism
+ image: GENERIC_Ideology_Stalinism.png
+ tags:
+  - GENERIC
+  - GENERIC_Ideology_Stalinism
+  - Generic
+  - generic
+-
+ name: GENERIC_Ideology_Strasserism
+ image: GENERIC_Ideology_Strasserism.png
+ tags:
+  - GENERIC
+  - GENERIC_Ideology_Strasserism
+  - Generic
+  - generic
+-
+ name: GENERIC_Ideology_Syndicalism
+ image: GENERIC_Ideology_Syndicalism.png
+ tags:
+  - GENERIC
+  - GENERIC_Ideology_Syndicalism
+  - Generic
+  - generic
+-
+ name: GENERIC_Ideology_Theocracy
+ image: GENERIC_Ideology_Theocracy.png
+ tags:
+  - GENERIC
+  - GENERIC_Ideology_Theocracy
+  - Generic
+  - generic
+-
+ name: GENERIC_Ideology_Trotskyism
+ image: GENERIC_Ideology_Trotskyism.png
+ tags:
+  - GENERIC
+  - GENERIC_Ideology_Trotskyism
+  - Generic
+  - generic
+-
+ name: GENERIC_Import_Bombers
+ image: GENERIC_Import_Bombers.png
+ tags:
+  - GENERIC
+  - GENERIC_Import_Bombers
+  - Generic
+  - generic
+-
+ name: GENERIC_Import_Fighters
+ image: GENERIC_Import_Fighters.png
+ tags:
+  - GENERIC
+  - GENERIC_Import_Fighters
+  - Generic
+  - generic
+-
+ name: GENERIC_International_Airport
+ image: GENERIC_International_Airport.png
+ tags:
+  - GENERIC
+  - GENERIC_International_Airport
+  - Generic
+  - generic
+-
+ name: Generic_Jet_Engine
+ image: Generic_Jet_Engine.png
+ tags:
+  - Generic
+  - Generic_Jet_Engine
+  - Generic
+  - generic
+-
+ name: Generic_Jewish_Religious_School_Programs
+ image: Generic_Jewish_Religious_School_Programs.png
+ tags:
+  - Generic
+  - Generic_Jewish_Religious_School_Programs
+  - Generic
+  - generic
+-
+ name: GENERIC_Justice_System
+ image: GENERIC_Justice_System.png
+ tags:
+  - GENERIC
+  - GENERIC_Justice_System
+  - Generic
+  - generic
+-
+ name: GENERIC_Justice_System_Socialist
+ image: GENERIC_Justice_System_Socialist.png
+ tags:
+  - GENERIC
+  - GENERIC_Justice_System_Socialist
+  - Generic
+  - generic
+-
+ name: Generic_Large_Navy
+ image: Generic_Large_Navy.png
+ tags:
+  - Generic
+  - Generic_Large_Navy
+  - Navy
+  - navy
+  - Generic
+  - generic
+-
+ name: GENERIC_League_of_Nations
+ image: GENERIC_League_of_Nations.png
+ tags:
+  - GENERIC
+  - GENERIC_League_of_Nations
+  - Generic
+  - generic
+-
+ name: GENERIC_Lessons_from_the_War_British
+ image: GENERIC_Lessons_from_the_War_British.png
+ tags:
+  - GENERIC
+  - GENERIC_Lessons_from_the_War_British
+  - Generic
+  - generic
+-
+ name: GENERIC_Lessons_from_the_War_German
+ image: GENERIC_Lessons_from_the_War_German.png
+ tags:
+  - GENERIC
+  - GENERIC_Lessons_from_the_War_German
+  - Generic
+  - generic
+-
+ name: Generic_Light_Carrier
+ image: Generic_Light_Carrier.png
+ tags:
+  - Generic
+  - Generic_Light_Carrier
+  - Generic
+  - generic
+-
+ name: GENERIC_Marines
+ image: GENERIC_Marines.png
+ tags:
+  - GENERIC
+  - GENERIC_Marines
+  - Generic
+  - generic
+-
+ name: GENERIC_Mass_Arrest_Political_Enemies
+ image: GENERIC_Mass_Arrest_Political_Enemies.png
+ tags:
+  - GENERIC
+  - GENERIC_Mass_Arrest_Political_Enemies
+  - Generic
+  - generic
+-
+ name: Generic_Mass_Assault
+ image: Generic_Mass_Assault.png
+ tags:
+  - Generic
+  - Generic_Mass_Assault
+  - Generic
+  - generic
+-
+ name: Generic_MBT
+ image: Generic_MBT.png
+ tags:
+  - Generic
+  - Generic_MBT
+  - Generic
+  - generic
+-
+ name: GENERIC_Mechanization
+ image: GENERIC_Mechanization.png
+ tags:
+  - GENERIC
+  - GENERIC_Mechanization
+  - Generic
+  - generic
+-
+ name: GENERIC_Mechanized_Marines
+ image: GENERIC_Mechanized_Marines.png
+ tags:
+  - GENERIC
+  - GENERIC_Mechanized_Marines
+  - Generic
+  - generic
+-
+ name: GENERIC_Meeting_with_the_Comintern
+ image: GENERIC_Meeting_with_the_Comintern.png
+ tags:
+  - GENERIC
+  - GENERIC_Meeting_with_the_Comintern
+  - Generic
+  - generic
+-
+ name: GENERIC_Militarize_Civilian_Airports
+ image: GENERIC_Militarize_Civilian_Airports.png
+ tags:
+  - GENERIC
+  - GENERIC_Militarize_Civilian_Airports
+  - Generic
+  - generic
+-
+ name: GENERIC_Military_Academy
+ image: GENERIC_Military_Academy.png
+ tags:
+  - GENERIC
+  - GENERIC_Military_Academy
+  - Generic
+  - generic
+-
+ name: GENERIC_Military_Industrial_Complexes
+ image: GENERIC_Military_Industrial_Complexes.png
+ tags:
+  - GENERIC
+  - GENERIC_Military_Industrial_Complexes
+  - Generic
+  - generic
+-
+ name: GENERIC_Military_Production
+ image: GENERIC_Military_Production.png
+ tags:
+  - GENERIC
+  - GENERIC_Military_Production
+  - Generic
+  - generic
+-
+ name: GENERIC_Military_State
+ image: GENERIC_Military_State.png
+ tags:
+  - GENERIC
+  - GENERIC_Military_State
+  - Generic
+  - generic
+-
+ name: GENERIC_Missile_Battlecruiser
+ image: GENERIC_Missile_Battlecruiser.png
+ tags:
+  - GENERIC
+  - GENERIC_Missile_Battlecruiser
+  - Generic
+  - generic
+-
+ name: GENERIC_Missile_Cruiser
+ image: GENERIC_Missile_Cruiser.png
+ tags:
+  - GENERIC
+  - GENERIC_Missile_Cruiser
+  - Generic
+  - generic
+-
+ name: GENERIC_Missile_Destroyer
+ image: GENERIC_Missile_Destroyer.png
+ tags:
+  - GENERIC
+  - GENERIC_Missile_Destroyer
+  - Generic
+  - generic
+-
+ name: GENERIC_Missile_Frigate
+ image: GENERIC_Missile_Frigate.png
+ tags:
+  - GENERIC
+  - GENERIC_Missile_Frigate
+  - Generic
+  - generic
+-
+ name: GENERIC_Missile_Sub
+ image: GENERIC_Missile_Sub.png
+ tags:
+  - GENERIC
+  - GENERIC_Missile_Sub
+  - Generic
+  - generic
+-
+ name: GENERIC_Mobile_Artillery
+ image: GENERIC_Mobile_Artillery.png
+ tags:
+  - GENERIC
+  - GENERIC_Mobile_Artillery
+  - Generic
+  - generic
+-
+ name: Generic_Mobile_Warfare
+ image: Generic_Mobile_Warfare.png
+ tags:
+  - Generic
+  - Generic_Mobile_Warfare
+  - Generic
+  - generic
+-
+ name: GENERIC_Modern_Elitism
+ image: GENERIC_Modern_Elitism.png
+ tags:
+  - GENERIC
+  - GENERIC_Modern_Elitism
+  - Generic
+  - generic
+-
+ name: Generic_Money
+ image: Generic_Money.png
+ tags:
+  - Generic
+  - Generic_Money
+  - Generic
+  - generic
+-
+ name: GENERIC_Mountain_Warfare
+ image: GENERIC_Mountain_Warfare.png
+ tags:
+  - GENERIC
+  - GENERIC_Mountain_Warfare
+  - Generic
+  - generic
+-
+ name: Generic_Muslim_Religious_School_Programs
+ image: Generic_Muslim_Religious_School_Programs.png
+ tags:
+  - Generic
+  - Generic_Muslim_Religious_School_Programs
+  - Generic
+  - generic
+-
+ name: GENERIC_Nationalize_Banks
+ image: GENERIC_Nationalize_Banks.png
+ tags:
+  - GENERIC
+  - GENERIC_Nationalize_Banks
+  - Generic
+  - generic
+-
+ name: GENERIC_Nationalize_Industry
+ image: GENERIC_Nationalize_Industry.png
+ tags:
+  - GENERIC
+  - GENERIC_Nationalize_Industry
+  - Generic
+  - generic
+-
+ name: GENERIC_Naval_Mine
+ image: GENERIC_Naval_Mine.png
+ tags:
+  - GENERIC
+  - GENERIC_Naval_Mine
+  - Generic
+  - generic
+-
+ name: GENERIC_Naval_School
+ image: GENERIC_Naval_School.png
+ tags:
+  - GENERIC
+  - GENERIC_Naval_School
+  - Generic
+  - generic
+-
+ name: Generic_Navy
+ image: Generic_Navy.png
+ tags:
+  - Generic
+  - Generic_Navy
+  - Navy
+  - navy
+  - Generic
+  - generic
+-
+ name: GENERIC_New_Constitution
+ image: GENERIC_New_Constitution.png
+ tags:
+  - GENERIC
+  - GENERIC_New_Constitution
+  - Generic
+  - generic
+-
+ name: Generic_Orthodox_Religious_School_Programs
+ image: Generic_Orthodox_Religious_School_Programs.png
+ tags:
+  - Generic
+  - Generic_Orthodox_Religious_School_Programs
+  - Generic
+  - generic
+-
+ name: GENERIC_Pan_Islamic_Assistance
+ image: GENERIC_Pan_Islamic_Assistance.png
+ tags:
+  - GENERIC
+  - GENERIC_Pan_Islamic_Assistance
+  - Generic
+  - generic
+-
+ name: GENERIC_Parliament
+ image: GENERIC_Parliament.png
+ tags:
+  - GENERIC
+  - GENERIC_Parliament
+  - Generic
+  - generic
+-
+ name: GENERIC_Peaceful
+ image: GENERIC_Peaceful.png
+ tags:
+  - GENERIC
+  - GENERIC_Peaceful
+  - Generic
+  - generic
+-
+ name: GENERIC_Political_Army
+ image: GENERIC_Political_Army.png
+ tags:
+  - GENERIC
+  - GENERIC_Political_Army
+  - Army
+  - army
+  - Generic
+  - generic
+-
+ name: GENERIC_Populist_Politics
+ image: GENERIC_Populist_Politics.png
+ tags:
+  - GENERIC
+  - GENERIC_Populist_Politics
+  - Generic
+  - generic
+-
+ name: GENERIC_Professional_Army
+ image: GENERIC_Professional_Army.png
+ tags:
+  - GENERIC
+  - GENERIC_Professional_Army
+  - Army
+  - army
+  - Generic
+  - generic
+-
+ name: Generic_Protestant_Religious_School_Programs
+ image: Generic_Protestant_Religious_School_Programs.png
+ tags:
+  - Generic
+  - Generic_Protestant_Religious_School_Programs
+  - Generic
+  - generic
+-
+ name: GENERIC_Public_Works
+ image: GENERIC_Public_Works.png
+ tags:
+  - GENERIC
+  - GENERIC_Public_Works
+  - Generic
+  - generic
+-
+ name: GENERIC_Purge_the_Old_Guard
+ image: GENERIC_Purge_the_Old_Guard.png
+ tags:
+  - GENERIC
+  - GENERIC_Purge_the_Old_Guard
+  - Generic
+  - generic
+-
+ name: GENERIC_Restore_Confidence_in_the_Bank
+ image: GENERIC_Restore_Confidence_in_the_Bank.png
+ tags:
+  - GENERIC
+  - GENERIC_Restore_Confidence_in_the_Bank
+  - Generic
+  - generic
+-
+ name: GENERIC_Road_Construction
+ image: GENERIC_Road_Construction.png
+ tags:
+  - GENERIC
+  - GENERIC_Road_Construction
+  - Generic
+  - generic
+-
+ name: GENERIC_Rocket_Artillery
+ image: GENERIC_Rocket_Artillery.png
+ tags:
+  - GENERIC
+  - GENERIC_Rocket_Artillery
+  - Generic
+  - generic
+-
+ name: GENERIC_Scars_of_the_Civil_War
+ image: GENERIC_Scars_of_the_Civil_War.png
+ tags:
+  - GENERIC
+  - GENERIC_Scars_of_the_Civil_War
+  - Generic
+  - generic
+-
+ name: GENERIC_Seek_International_Recognition
+ image: GENERIC_Seek_International_Recognition.png
+ tags:
+  - GENERIC
+  - GENERIC_Seek_International_Recognition
+  - Generic
+  - generic
+-
+ name: GENERIC_Separate_Church_from_State
+ image: GENERIC_Separate_Church_from_State.png
+ tags:
+  - GENERIC
+  - GENERIC_Separate_Church_from_State
+  - Generic
+  - generic
+-
+ name: GENERIC_Sharia_Law
+ image: GENERIC_Sharia_Law.png
+ tags:
+  - GENERIC
+  - GENERIC_Sharia_Law
+  - Generic
+  - generic
+-
+ name: GENERIC_Silk_Industry
+ image: GENERIC_Silk_Industry.png
+ tags:
+  - GENERIC
+  - GENERIC_Silk_Industry
+  - Generic
+  - generic
+-
+ name: Generic_Small_Navy
+ image: Generic_Small_Navy.png
+ tags:
+  - Generic
+  - Generic_Small_Navy
+  - Navy
+  - navy
+  - Generic
+  - generic
+-
+ name: GENERIC_Socialist_Culture
+ image: GENERIC_Socialist_Culture.png
+ tags:
+  - GENERIC
+  - GENERIC_Socialist_Culture
+  - Generic
+  - generic
+-
+ name: Generic_Stimulus_Plan
+ image: Generic_Stimulus_Plan.png
+ tags:
+  - Generic
+  - Generic_Stimulus_Plan
+  - Generic
+  - generic
+-
+ name: GENERIC_Strategic_Bombing
+ image: GENERIC_Strategic_Bombing.png
+ tags:
+  - GENERIC
+  - GENERIC_Strategic_Bombing
+  - Generic
+  - generic
+-
+ name: Generic_Submarine
+ image: Generic_Submarine.png
+ tags:
+  - Generic
+  - Generic_Submarine
+  - Generic
+  - generic
+-
+ name: GENERIC_Supercarrier
+ image: GENERIC_Supercarrier.png
+ tags:
+  - GENERIC
+  - GENERIC_Supercarrier
+  - Generic
+  - generic
+-
+ name: Generic_Superior_Firepower
+ image: Generic_Superior_Firepower.png
+ tags:
+  - Generic
+  - Generic_Superior_Firepower
+  - Generic
+  - generic
+-
+ name: Generic_Support_for_Agriculture
+ image: Generic_Support_for_Agriculture.png
+ tags:
+  - Generic
+  - Generic_Support_for_Agriculture
+  - Generic
+  - generic
+-
+ name: GENERIC_Support_Privatization
+ image: GENERIC_Support_Privatization.png
+ tags:
+  - GENERIC
+  - GENERIC_Support_Privatization
+  - Generic
+  - generic
+-
+ name: GENERIC_Tank_Destroyers
+ image: GENERIC_Tank_Destroyers.png
+ tags:
+  - GENERIC
+  - GENERIC_Tank_Destroyers
+  - Generic
+  - generic
+-
+ name: GENERIC_Tax_Cuts_for_Land_Owners
+ image: GENERIC_Tax_Cuts_for_Land_Owners.png
+ tags:
+  - GENERIC
+  - GENERIC_Tax_Cuts_for_Land_Owners
+  - Generic
+  - generic
+-
+ name: Generic_Tax_the_Rich
+ image: Generic_Tax_the_Rich.png
+ tags:
+  - Generic
+  - Generic_Tax_the_Rich
+  - Generic
+  - generic
+-
+ name: GENERIC_Technocratic_Principles
+ image: GENERIC_Technocratic_Principles.png
+ tags:
+  - GENERIC
+  - GENERIC_Technocratic_Principles
+  - Generic
+  - generic
+-
+ name: Generic_Torpedo_Boat
+ image: Generic_Torpedo_Boat.png
+ tags:
+  - Generic
+  - Generic_Torpedo_Boat
+  - Generic
+  - generic
+-
+ name: Generic_Trade_Interdiction
+ image: Generic_Trade_Interdiction.png
+ tags:
+  - Generic
+  - Generic_Trade_Interdiction
+  - Generic
+  - generic
+-
+ name: Generic_Urban_Warfare
+ image: Generic_Urban_Warfare.png
+ tags:
+  - Generic
+  - Generic_Urban_Warfare
+  - Generic
+  - generic
+-
+ name: GENERIC_Westernization
+ image: GENERIC_Westernization.png
+ tags:
+  - GENERIC
+  - GENERIC_Westernization
+  - Generic
+  - generic
+-
+ name: GENERIC_Youth_Employment
+ image: GENERIC_Youth_Employment.png
+ tags:
+  - GENERIC
+  - GENERIC_Youth_Employment
+  - Generic
+  - generic
+-
+ name: GEO_Georgian_Air_Force
+ image: GEO_Georgian_Air_Force.png
+ tags:
+  - GEO
+  - GEO_Georgian_Air_Force
+  - Air
+  - air
+-
+ name: GEO_Georgian_Army
+ image: GEO_Georgian_Army.png
+ tags:
+  - GEO
+  - GEO_Georgian_Army
+  - Army
+  - army
+-
+ name: GEO_Georgian_Navy
+ image: GEO_Georgian_Navy.png
+ tags:
+  - GEO
+  - GEO_Georgian_Navy
+  - Navy
+  - navy
+-
+ name: GER_Abwehr
+ image: GER_Abwehr.png
+ tags:
+  - GER
+  - GER_Abwehr
+-
+ name: GER_Across_the_Pond
+ image: GER_Across_the_Pond.png
+ tags:
+  - GER
+  - GER_Across_the_Pond
+-
+ name: GER_Advocate_for_Paligenesis
+ image: GER_Advocate_for_Paligenesis.png
+ tags:
+  - GER
+  - GER_Advocate_for_Paligenesis
+-
+ name: GER_AEG
+ image: GER_AEG.png
+ tags:
+  - GER
+  - GER_AEG
+-
+ name: GER_Afrika_Korps
+ image: GER_Afrika_Korps.png
+ tags:
+  - GER
+  - GER_Afrika_Korps
+-
+ name: GER_Amerika_Bomber
+ image: GER_Amerika_Bomber.png
+ tags:
+  - GER
+  - GER_Amerika_Bomber
+-
+ name: GER_Amerika_Rakate
+ image: GER_Amerika_Rakate.png
+ tags:
+  - GER
+  - GER_Amerika_Rakate
+-
+ name: GER_Anglo_German_Naval_Agreement
+ image: GER_Anglo_German_Naval_Agreement.png
+ tags:
+  - GER
+  - GER_Anglo_German_Naval_Agreement
+-
+ name: GER_Aristocratic_Land_Base
+ image: GER_Aristocratic_Land_Base.png
+ tags:
+  - GER
+  - GER_Aristocratic_Land_Base
+-
+ name: GER_Around_the_Maginot
+ image: GER_Around_the_Maginot.png
+ tags:
+  - GER
+  - GER_Around_the_Maginot
+-
+ name: GER_Atlantikwall
+ image: GER_Atlantikwall.png
+ tags:
+  - GER
+  - GER_Atlantikwall
+-
+ name: GER_Auf_zum_Marsch
+ image: GER_Auf_zum_Marsch.png
+ tags:
+  - GER
+  - GER_Auf_zum_Marsch
+-
+ name: GER_Auxillary_SS
+ image: GER_Auxillary_SS.png
+ tags:
+  - GER
+  - GER_Auxillary_SS
+-
+ name: GER_A_Guided_Puppet
+ image: GER_A_Guided_Puppet.png
+ tags:
+  - GER
+  - GER_A_Guided_Puppet
+-
+ name: GER_A_Loudspeaker_in_Every_House
+ image: GER_A_Loudspeaker_in_Every_House.png
+ tags:
+  - GER
+  - GER_A_Loudspeaker_in_Every_House
+-
+ name: GER_A_Nations_Struggle
+ image: GER_A_Nations_Struggle.png
+ tags:
+  - GER
+  - GER_A_Nations_Struggle
+-
+ name: GER_A_Socialist_Outlook
+ image: GER_A_Socialist_Outlook.png
+ tags:
+  - GER
+  - GER_A_Socialist_Outlook
+-
+ name: GER_A_Union_of_Equals
+ image: GER_A_Union_of_Equals.png
+ tags:
+  - GER
+  - GER_A_Union_of_Equals
+-
+ name: GER_A_Union_Under_Germany
+ image: GER_A_Union_Under_Germany.png
+ tags:
+  - GER
+  - GER_A_Union_Under_Germany
+-
+ name: GER_A_Workers_Struggle
+ image: GER_A_Workers_Struggle.png
+ tags:
+  - GER
+  - GER_A_Workers_Struggle
+-
+ name: GER_Babelsberg
+ image: GER_Babelsberg.png
+ tags:
+  - GER
+  - GER_Babelsberg
+-
+ name: GER_Battle_of_the_Atlantic
+ image: GER_Battle_of_the_Atlantic.png
+ tags:
+  - GER
+  - GER_Battle_of_the_Atlantic
+-
+ name: GER_BF109
+ image: GER_BF109.png
+ tags:
+  - GER
+  - GER_BF109
+-
+ name: GER_Blitzbomber
+ image: GER_Blitzbomber.png
+ tags:
+  - GER
+  - GER_Blitzbomber
+-
+ name: GER_Blood_and_Soil
+ image: GER_Blood_and_Soil.png
+ tags:
+  - GER
+  - GER_Blood_and_Soil
+-
+ name: GER_Brandenburgers
+ image: GER_Brandenburgers.png
+ tags:
+  - GER
+  - GER_Brandenburgers
+-
+ name: GER_Chancellor_Hitler
+ image: GER_Chancellor_Hitler.png
+ tags:
+  - GER
+  - GER_Chancellor_Hitler
+-
+ name: GER_Collective_Values
+ image: GER_Collective_Values.png
+ tags:
+  - GER
+  - GER_Collective_Values
+-
+ name: GER_Day_of_the_Rope
+ image: GER_Day_of_the_Rope.png
+ tags:
+  - GER
+  - GER_Day_of_the_Rope
+-
+ name: GER_Denazification
+ image: GER_Denazification.png
+ tags:
+  - GER
+  - GER_Denazification
+-
+ name: GER_Deutsches_Reichbahn
+ image: GER_Deutsches_Reichbahn.png
+ tags:
+  - GER
+  - GER_Deutsches_Reichbahn
+-
+ name: GER_Deutsche_Arbeitsfront
+ image: GER_Deutsche_Arbeitsfront.png
+ tags:
+  - GER
+  - GER_Deutsche_Arbeitsfront
+-
+ name: GER_Deutsche_Luftstreitkrafte
+ image: GER_Deutsche_Luftstreitkrafte.png
+ tags:
+  - GER
+  - GER_Deutsche_Luftstreitkrafte
+-
+ name: GER_Do17
+ image: GER_Do17.png
+ tags:
+  - GER
+  - GER_Do17
+-
+ name: GER_Donitz_UBoot_Fleet
+ image: GER_Donitz_UBoot_Fleet.png
+ tags:
+  - GER
+  - GER_Donitz_UBoot_Fleet
+-
+ name: GER_Dusenprojekt
+ image: GER_Dusenprojekt.png
+ tags:
+  - GER
+  - GER_Dusenprojekt
+-
+ name: GER_Ein_Volk_Ein_Reich_Ein_Fuhrer
+ image: GER_Ein_Volk_Ein_Reich_Ein_Fuhrer.png
+ tags:
+  - GER
+  - GER_Ein_Volk_Ein_Reich_Ein_Fuhrer
+-
+ name: GER_Embrace_Ultranationalism
+ image: GER_Embrace_Ultranationalism.png
+ tags:
+  - GER
+  - GER_Embrace_Ultranationalism
+-
+ name: GER_Empower_the_Junkers
+ image: GER_Empower_the_Junkers.png
+ tags:
+  - GER
+  - GER_Empower_the_Junkers
+-
+ name: GER_Enabling_Act
+ image: GER_Enabling_Act.png
+ tags:
+  - GER
+  - GER_Enabling_Act
+-
+ name: GER_Encourage_Christian_Trade_Unions
+ image: GER_Encourage_Christian_Trade_Unions.png
+ tags:
+  - GER
+  - GER_Encourage_Christian_Trade_Unions
+-
+ name: GER_Establish_the_Bundesrepublik
+ image: GER_Establish_the_Bundesrepublik.png
+ tags:
+  - GER
+  - GER_Establish_the_Bundesrepublik
+-
+ name: GER_Europaischer_Staatenbund
+ image: GER_Europaischer_Staatenbund.png
+ tags:
+  - GER
+  - GER_Europaischer_Staatenbund
+-
+ name: GER_Fallschrimjager
+ image: GER_Fallschrimjager.png
+ tags:
+  - GER
+  - GER_Fallschrimjager
+-
+ name: GER_Flakabwehr
+ image: GER_Flakabwehr.png
+ tags:
+  - GER
+  - GER_Flakabwehr
+-
+ name: GER_Flugabwehrraketen
+ image: GER_Flugabwehrraketen.png
+ tags:
+  - GER
+  - GER_Flugabwehrraketen
+-
+ name: GER_Forgive_the_Alter_Kampfer
+ image: GER_Forgive_the_Alter_Kampfer.png
+ tags:
+  - GER
+  - GER_Forgive_the_Alter_Kampfer
+-
+ name: GER_Frontline_Flight
+ image: GER_Frontline_Flight.png
+ tags:
+  - GER
+  - GER_Frontline_Flight
+-
+ name: GER_Fw190
+ image: GER_Fw190.png
+ tags:
+  - GER
+  - GER_Fw190
+-
+ name: GER_Generalplan_Ost
+ image: GER_Generalplan_Ost.png
+ tags:
+  - GER
+  - GER_Generalplan_Ost
+-
+ name: GER_Germania
+ image: GER_Germania.png
+ tags:
+  - GER
+  - GER_Germania
+-
+ name: GER_Germany_Could_No_Longer_Remain_Idle
+ image: GER_Germany_Could_No_Longer_Remain_Idle.png
+ tags:
+  - GER
+  - GER_Germany_Could_No_Longer_Remain_Idle
+-
+ name: GER_German_Empire
+ image: GER_German_Empire.png
+ tags:
+  - GER
+  - GER_German_Empire
+-
+ name: GER_Give_into_Hitlers_Demands
+ image: GER_Give_into_Hitlers_Demands.png
+ tags:
+  - GER
+  - GER_Give_into_Hitlers_Demands
+-
+ name: GER_Gleichschaltung
+ image: GER_Gleichschaltung.png
+ tags:
+  - GER
+  - GER_Gleichschaltung
+-
+ name: GER_Goerings_Four_Year_Plan
+ image: GER_Goerings_Four_Year_Plan.png
+ tags:
+  - GER
+  - GER_Goerings_Four_Year_Plan
+-
+ name: GER_Gott_Mit_Uns
+ image: GER_Gott_Mit_Uns.png
+ tags:
+  - GER
+  - GER_Gott_Mit_Uns
+-
+ name: GER_He177
+ image: GER_He177.png
+ tags:
+  - GER
+  - GER_He177
+-
+ name: GER_Heer
+ image: GER_Heer.png
+ tags:
+  - GER
+  - GER_Heer
+-
+ name: GER_Heim_Ins_Reich
+ image: GER_Heim_Ins_Reich.png
+ tags:
+  - GER
+  - GER_Heim_Ins_Reich
+-
+ name: GER_Hire_Leading_Economists
+ image: GER_Hire_Leading_Economists.png
+ tags:
+  - GER
+  - GER_Hire_Leading_Economists
+-
+ name: GER_Hitler_Youth
+ image: GER_Hitler_Youth.png
+ tags:
+  - GER
+  - GER_Hitler_Youth
+-
+ name: GER_IG_Farben
+ image: GER_IG_Farben.png
+ tags:
+  - GER
+  - GER_IG_Farben
+-
+ name: GER_Invade_the_British_Isles
+ image: GER_Invade_the_British_Isles.png
+ tags:
+  - GER
+  - GER_Invade_the_British_Isles
+-
+ name: GER_Kaiserliche_Marine
+ image: GER_Kaiserliche_Marine.png
+ tags:
+  - GER
+  - GER_Kaiserliche_Marine
+-
+ name: GER_Kaisertreue_Regierung
+ image: GER_Kaisertreue_Regierung.png
+ tags:
+  - GER
+  - GER_Kaisertreue_Regierung
+-
+ name: GER_Katzchen
+ image: GER_Katzchen.png
+ tags:
+  - GER
+  - GER_Katzchen
+-
+ name: GER_KdF_Wagon
+ image: GER_KdF_Wagon.png
+ tags:
+  - GER
+  - GER_KdF_Wagon
+-
+ name: GER_Kraft_durch_Freude
+ image: GER_Kraft_durch_Freude.png
+ tags:
+  - GER
+  - GER_Kraft_durch_Freude
+-
+ name: GER_Kriegsmarine
+ image: GER_Kriegsmarine.png
+ tags:
+  - GER
+  - GER_Kriegsmarine
+-
+ name: GER_Landkreuzer_Ratte
+ image: GER_Landkreuzer_Ratte.png
+ tags:
+  - GER
+  - GER_Landkreuzer_Ratte
+-
+ name: GER_Lesson_of_the_Weltkrieg
+ image: GER_Lesson_of_the_Weltkrieg.png
+ tags:
+  - GER
+  - GER_Lesson_of_the_Weltkrieg
+-
+ name: GER_Luftwaffe
+ image: GER_Luftwaffe.png
+ tags:
+  - GER
+  - GER_Luftwaffe
+-
+ name: GER_Machtergreifung
+ image: GER_Machtergreifung.png
+ tags:
+  - GER
+  - GER_Machtergreifung
+-
+ name: GER_Me262
+ image: GER_Me262.png
+ tags:
+  - GER
+  - GER_Me262
+-
+ name: GER_Mechanized_Infantry
+ image: GER_Mechanized_Infantry.png
+ tags:
+  - GER
+  - GER_Mechanized_Infantry
+-
+ name: GER_MEFO_Bills
+ image: GER_MEFO_Bills.png
+ tags:
+  - GER
+  - GER_MEFO_Bills
+-
+ name: GER_Mobile_Artillery
+ image: GER_Mobile_Artillery.png
+ tags:
+  - GER
+  - GER_Mobile_Artillery
+-
+ name: GER_Monarchist_Movement
+ image: GER_Monarchist_Movement.png
+ tags:
+  - GER
+  - GER_Monarchist_Movement
+-
+ name: GER_Nationalist_Movement
+ image: GER_Nationalist_Movement.png
+ tags:
+  - GER
+  - GER_Nationalist_Movement
+-
+ name: GER_Neuordnung_Europa
+ image: GER_Neuordnung_Europa.png
+ tags:
+  - GER
+  - GER_Neuordnung_Europa
+-
+ name: GER_New_Party_Chancellor
+ image: GER_New_Party_Chancellor.png
+ tags:
+  - GER
+  - GER_New_Party_Chancellor
+-
+ name: GER_Night_of_the_Long_Knives
+ image: GER_Night_of_the_Long_Knives.png
+ tags:
+  - GER
+  - GER_Night_of_the_Long_Knives
+-
+ name: GER_NSDAP
+ image: GER_NSDAP.png
+ tags:
+  - GER
+  - GER_NSDAP
+-
+ name: GER_OKW
+ image: GER_OKW.png
+ tags:
+  - GER
+  - GER_OKW
+-
+ name: GER_Ordnungspolizei
+ image: GER_Ordnungspolizei.png
+ tags:
+  - GER
+  - GER_Ordnungspolizei
+-
+ name: GER_Osttruppen
+ image: GER_Osttruppen.png
+ tags:
+  - GER
+  - GER_Osttruppen
+-
+ name: GER_Outlaw_Parties
+ image: GER_Outlaw_Parties.png
+ tags:
+  - GER
+  - GER_Outlaw_Parties
+-
+ name: GER_Panther_Panzer
+ image: GER_Panther_Panzer.png
+ tags:
+  - GER
+  - GER_Panther_Panzer
+-
+ name: GER_Panzerjager
+ image: GER_Panzerjager.png
+ tags:
+  - GER
+  - GER_Panzerjager
+-
+ name: GER_Panzerkorps
+ image: GER_Panzerkorps.png
+ tags:
+  - GER
+  - GER_Panzerkorps
+-
+ name: GER_Panzertruppen
+ image: GER_Panzertruppen.png
+ tags:
+  - GER
+  - GER_Panzertruppen
+-
+ name: GER_Plankalkul
+ image: GER_Plankalkul.png
+ tags:
+  - GER
+  - GER_Plankalkul
+-
+ name: GER_Plan_Z
+ image: GER_Plan_Z.png
+ tags:
+  - GER
+  - GER_Plan_Z
+-
+ name: GER_Positive_Christianity
+ image: GER_Positive_Christianity.png
+ tags:
+  - GER
+  - GER_Positive_Christianity
+-
+ name: GER_Prussian_Constitutionalism
+ image: GER_Prussian_Constitutionalism.png
+ tags:
+  - GER
+  - GER_Prussian_Constitutionalism
+-
+ name: GER_Purge_Alter_Kampfe
+ image: GER_Purge_Alter_Kampfe.png
+ tags:
+  - GER
+  - GER_Purge_Alter_Kampfe
+-
+ name: GER_Racial_Laws
+ image: GER_Racial_Laws.png
+ tags:
+  - GER
+  - GER_Racial_Laws
+-
+ name: GER_Radical_Pan_Germanism
+ image: GER_Radical_Pan_Germanism.png
+ tags:
+  - GER
+  - GER_Radical_Pan_Germanism
+-
+ name: GER_Realpolitik
+ image: GER_Realpolitik.png
+ tags:
+  - GER
+  - GER_Realpolitik
+-
+ name: GER_Reestablish_the_Freikorps
+ image: GER_Reestablish_the_Freikorps.png
+ tags:
+  - GER
+  - GER_Reestablish_the_Freikorps
+-
+ name: GER_Reestablish_the_German_Colonial_Empire
+ image: GER_Reestablish_the_German_Colonial_Empire.png
+ tags:
+  - GER
+  - GER_Reestablish_the_German_Colonial_Empire
+-
+ name: GER_Reestablish_the_Kaiserreich
+ image: GER_Reestablish_the_Kaiserreich.png
+ tags:
+  - GER
+  - GER_Reestablish_the_Kaiserreich
+-
+ name: GER_Reform_the_Oberkommando
+ image: GER_Reform_the_Oberkommando.png
+ tags:
+  - GER
+  - GER_Reform_the_Oberkommando
+-
+ name: GER_Reichskonkordat
+ image: GER_Reichskonkordat.png
+ tags:
+  - GER
+  - GER_Reichskonkordat
+-
+ name: GER_Reichsluftfahrtministerium
+ image: GER_Reichsluftfahrtministerium.png
+ tags:
+  - GER
+  - GER_Reichsluftfahrtministerium
+-
+ name: GER_Reichsmarine
+ image: GER_Reichsmarine.png
+ tags:
+  - GER
+  - GER_Reichsmarine
+-
+ name: GER_Reichstag
+ image: GER_Reichstag.png
+ tags:
+  - GER
+  - GER_Reichstag
+-
+ name: GER_Reichsverein_zur_Erforschung_des_Universums
+ image: GER_Reichsverein_zur_Erforschung_des_Universums.png
+ tags:
+  - GER
+  - GER_Reichsverein_zur_Erforschung_des_Universums
+-
+ name: GER_Reichswehr
+ image: GER_Reichswehr.png
+ tags:
+  - GER
+  - GER_Reichswehr
+-
+ name: GER_Reichswerke_Hermann_Goering
+ image: GER_Reichswerke_Hermann_Goering.png
+ tags:
+  - GER
+  - GER_Reichswerke_Hermann_Goering
+-
+ name: GER_Renounce_the_Disarmament_Clauses
+ image: GER_Renounce_the_Disarmament_Clauses.png
+ tags:
+  - GER
+  - GER_Renounce_the_Disarmament_Clauses
+-
+ name: GER_Return_of_the_Kaiser
+ image: GER_Return_of_the_Kaiser.png
+ tags:
+  - GER
+  - GER_Return_of_the_Kaiser
+-
+ name: GER_Return_of_the_Kaiser_Wilhelm_III
+ image: GER_Return_of_the_Kaiser_Wilhelm_III.png
+ tags:
+  - GER
+  - GER_Return_of_the_Kaiser_Wilhelm_III
+-
+ name: GER_Reward_von_Schleicher
+ image: GER_Reward_von_Schleicher.png
+ tags:
+  - GER
+  - GER_Reward_von_Schleicher
+-
+ name: GER_Rheinmetall_Merger
+ image: GER_Rheinmetall_Merger.png
+ tags:
+  - GER
+  - GER_Rheinmetall_Merger
+-
+ name: GER_Rhineland_Remilitarization
+ image: GER_Rhineland_Remilitarization.png
+ tags:
+  - GER
+  - GER_Rhineland_Remilitarization
+-
+ name: GER_Rocket_Artillery
+ image: GER_Rocket_Artillery.png
+ tags:
+  - GER
+  - GER_Rocket_Artillery
+-
+ name: GER_Rohms_Private_Army
+ image: GER_Rohms_Private_Army.png
+ tags:
+  - GER
+  - GER_Rohms_Private_Army
+  - Army
+  - army
+-
+ name: GER_RSHA
+ image: GER_RSHA.png
+ tags:
+  - GER
+  - GER_RSHA
+-
+ name: GER_SA_Flieger
+ image: GER_SA_Flieger.png
+ tags:
+  - GER
+  - GER_SA_Flieger
+-
+ name: GER_SA_Marine
+ image: GER_SA_Marine.png
+ tags:
+  - GER
+  - GER_SA_Marine
+-
+ name: GER_Schutzstaffel
+ image: GER_Schutzstaffel.png
+ tags:
+  - GER
+  - GER_Schutzstaffel
+-
+ name: GER_Schwerer_Panzer
+ image: GER_Schwerer_Panzer.png
+ tags:
+  - GER
+  - GER_Schwerer_Panzer
+-
+ name: GER_Secure_the_North
+ image: GER_Secure_the_North.png
+ tags:
+  - GER
+  - GER_Secure_the_North
+-
+ name: GER_SS_Elite_Units
+ image: GER_SS_Elite_Units.png
+ tags:
+  - GER
+  - GER_SS_Elite_Units
+-
+ name: GER_SS_Panzer_Units
+ image: GER_SS_Panzer_Units.png
+ tags:
+  - GER
+  - GER_SS_Panzer_Units
+-
+ name: GER_SS_Penal_Batallions
+ image: GER_SS_Penal_Batallions.png
+ tags:
+  - GER
+  - GER_SS_Penal_Batallions
+-
+ name: GER_SS_Political_Officers
+ image: GER_SS_Political_Officers.png
+ tags:
+  - GER
+  - GER_SS_Political_Officers
+-
+ name: GER_SS_Volunteers
+ image: GER_SS_Volunteers.png
+ tags:
+  - GER
+  - GER_SS_Volunteers
+-
+ name: GER_SS_VT
+ image: GER_SS_VT.png
+ tags:
+  - GER
+  - GER_SS_VT
+-
+ name: GER_Standardpanzer
+ image: GER_Standardpanzer.png
+ tags:
+  - GER
+  - GER_Standardpanzer
+-
+ name: GER_Storm_The_Saar
+ image: GER_Storm_The_Saar.png
+ tags:
+  - GER
+  - GER_Storm_The_Saar
+-
+ name: GER_Stosstruppen
+ image: GER_Stosstruppen.png
+ tags:
+  - GER
+  - GER_Stosstruppen
+-
+ name: GER_Strasserist_Labour_Front
+ image: GER_Strasserist_Labour_Front.png
+ tags:
+  - GER
+  - GER_Strasserist_Labour_Front
+-
+ name: GER_Strasser_Goebbels_Doctrine
+ image: GER_Strasser_Goebbels_Doctrine.png
+ tags:
+  - GER
+  - GER_Strasser_Goebbels_Doctrine
+-
+ name: GER_Strategic_Flight
+ image: GER_Strategic_Flight.png
+ tags:
+  - GER
+  - GER_Strategic_Flight
+-
+ name: GER_Strong_Homefront
+ image: GER_Strong_Homefront.png
+ tags:
+  - GER
+  - GER_Strong_Homefront
+-
+ name: GER_Sturmabteilung
+ image: GER_Sturmabteilung.png
+ tags:
+  - GER
+  - GER_Sturmabteilung
+-
+ name: GER_Sudtirol_is_German
+ image: GER_Sudtirol_is_German.png
+ tags:
+  - GER
+  - GER_Sudtirol_is_German
+-
+ name: GER_Synchretic_Economics
+ image: GER_Synchretic_Economics.png
+ tags:
+  - GER
+  - GER_Synchretic_Economics
+-
+ name: GER_Talks_with_Strasser
+ image: GER_Talks_with_Strasser.png
+ tags:
+  - GER
+  - GER_Talks_with_Strasser
+-
+ name: GER_The_Architect
+ image: GER_The_Architect.png
+ tags:
+  - GER
+  - GER_The_Architect
+-
+ name: GER_The_Brown_Revolution
+ image: GER_The_Brown_Revolution.png
+ tags:
+  - GER
+  - GER_The_Brown_Revolution
+-
+ name: GER_The_Brute
+ image: GER_The_Brute.png
+ tags:
+  - GER
+  - GER_The_Brute
+-
+ name: GER_The_Foreign_Offices_Deals
+ image: GER_The_Foreign_Offices_Deals.png
+ tags:
+  - GER
+  - GER_The_Foreign_Offices_Deals
+-
+ name: GER_The_Funeral
+ image: GER_The_Funeral.png
+ tags:
+  - GER
+  - GER_The_Funeral
+-
+ name: GER_The_Genius_Organizer
+ image: GER_The_Genius_Organizer.png
+ tags:
+  - GER
+  - GER_The_Genius_Organizer
+-
+ name: GER_The_Hangman
+ image: GER_The_Hangman.png
+ tags:
+  - GER
+  - GER_The_Hangman
+-
+ name: GER_The_Reichsfuhrer
+ image: GER_The_Reichsfuhrer.png
+ tags:
+  - GER
+  - GER_The_Reichsfuhrer
+-
+ name: GER_The_Reichsmarschall
+ image: GER_The_Reichsmarschall.png
+ tags:
+  - GER
+  - GER_The_Reichsmarschall
+-
+ name: GER_The_Reichsmarschall_2
+ image: GER_The_Reichsmarschall_2.png
+ tags:
+  - GER
+  - GER_The_Reichsmarschall_2
+-
+ name: GER_The_Reichstag
+ image: GER_The_Reichstag.png
+ tags:
+  - GER
+  - GER_The_Reichstag
+-
+ name: GER_The_Second_Bismarck
+ image: GER_The_Second_Bismarck.png
+ tags:
+  - GER
+  - GER_The_Second_Bismarck
+-
+ name: GER_The_Second_Revolution
+ image: GER_The_Second_Revolution.png
+ tags:
+  - GER
+  - GER_The_Second_Revolution
+-
+ name: GER_The_Unthinkable
+ image: GER_The_Unthinkable.png
+ tags:
+  - GER
+  - GER_The_Unthinkable
+-
+ name: GER_Totalen_Krieg
+ image: GER_Totalen_Krieg.png
+ tags:
+  - GER
+  - GER_Totalen_Krieg
+-
+ name: GER_Tripartite_Pact
+ image: GER_Tripartite_Pact.png
+ tags:
+  - GER
+  - GER_Tripartite_Pact
+-
+ name: GER_Two_Allies_in_the_Far_East
+ image: GER_Two_Allies_in_the_Far_East.png
+ tags:
+  - GER
+  - GER_Two_Allies_in_the_Far_East
+-
+ name: GER_UBoot_Bunker
+ image: GER_UBoot_Bunker.png
+ tags:
+  - GER
+  - GER_UBoot_Bunker
+-
+ name: GER_Vergeltungswaffen
+ image: GER_Vergeltungswaffen.png
+ tags:
+  - GER
+  - GER_Vergeltungswaffen
+-
+ name: GER_Volksgemeinschaft
+ image: GER_Volksgemeinschaft.png
+ tags:
+  - GER
+  - GER_Volksgemeinschaft
+-
+ name: GER_Volksgemeinschaft_2
+ image: GER_Volksgemeinschaft_2.png
+ tags:
+  - GER
+  - GER_Volksgemeinschaft_2
+-
+ name: GER_Volksjager
+ image: GER_Volksjager.png
+ tags:
+  - GER
+  - GER_Volksjager
+-
+ name: GER_Volkssturm
+ image: GER_Volkssturm.png
+ tags:
+  - GER
+  - GER_Volkssturm
+-
+ name: GER_Volkswohlfahrt
+ image: GER_Volkswohlfahrt.png
+ tags:
+  - GER
+  - GER_Volkswohlfahrt
+-
+ name: GER_Waffen_SS
+ image: GER_Waffen_SS.png
+ tags:
+  - GER
+  - GER_Waffen_SS
+-
+ name: GER_Walk_in_the_Backyard
+ image: GER_Walk_in_the_Backyard.png
+ tags:
+  - GER
+  - GER_Walk_in_the_Backyard
+-
+ name: GER_Wehrmacht
+ image: GER_Wehrmacht.png
+ tags:
+  - GER
+  - GER_Wehrmacht
+-
+ name: GER_Weltpolitik
+ image: GER_Weltpolitik.png
+ tags:
+  - GER
+  - GER_Weltpolitik
+-
+ name: GER_Wewelsburg
+ image: GER_Wewelsburg.png
+ tags:
+  - GER
+  - GER_Wewelsburg
+-
+ name: GER_Wiking_Converges_on_Berlin
+ image: GER_Wiking_Converges_on_Berlin.png
+ tags:
+  - GER
+  - GER_Wiking_Converges_on_Berlin
+-
+ name: GER_Wunderwaffe
+ image: GER_Wunderwaffe.png
+ tags:
+  - GER
+  - GER_Wunderwaffe
+-
+ name: GRE_Hellenic_Air_Force
+ image: GRE_Hellenic_Air_Force.png
+ tags:
+  - GRE
+  - GRE_Hellenic_Air_Force
+  - Air
+  - air
+-
+ name: GRE_Hellenic_Army
+ image: GRE_Hellenic_Army.png
+ tags:
+  - GRE
+  - GRE_Hellenic_Army
+  - Army
+  - army
+-
+ name: GRE_Hellenic_Navy
+ image: GRE_Hellenic_Navy.png
+ tags:
+  - GRE
+  - GRE_Hellenic_Navy
+  - Navy
+  - navy
+-
+ name: GRE_Hellenic_Republican_Air_Force
+ image: GRE_Hellenic_Republican_Air_Force.png
+ tags:
+  - GRE
+  - GRE_Hellenic_Republican_Air_Force
+  - Air
+  - air
+-
+ name: GRE_Hellenic_Republican_Army
+ image: GRE_Hellenic_Republican_Army.png
+ tags:
+  - GRE
+  - GRE_Hellenic_Republican_Army
+  - Army
+  - army
+-
+ name: GRE_Hellenic_Republican_Navy
+ image: GRE_Hellenic_Republican_Navy.png
+ tags:
+  - GRE
+  - GRE_Hellenic_Republican_Navy
+  - Navy
+  - navy
+-
+ name: GRE_Memories_of_1923
+ image: GRE_Memories_of_1923.png
+ tags:
+  - GRE
+  - GRE_Memories_of_1923
+-
+ name: HOL_Royal_Netherlands_Air_Force
+ image: HOL_Royal_Netherlands_Air_Force.png
+ tags:
+  - HOL
+  - HOL_Royal_Netherlands_Air_Force
+  - Air
+  - air
+-
+ name: HOL_Royal_Netherlands_Army
+ image: HOL_Royal_Netherlands_Army.png
+ tags:
+  - HOL
+  - HOL_Royal_Netherlands_Army
+  - Army
+  - army
+-
+ name: HOL_Royal_Netherlands_Navy
+ image: HOL_Royal_Netherlands_Navy.png
+ tags:
+  - HOL
+  - HOL_Royal_Netherlands_Navy
+  - Navy
+  - navy
+-
+ name: HUN_An_Army_with_a_King
+ image: HUN_An_Army_with_a_King.png
+ tags:
+  - HUN
+  - HUN_An_Army_with_a_King
+  - Army
+  - army
+-
+ name: HUN_Bring_In_Daranyi
+ image: HUN_Bring_In_Daranyi.png
+ tags:
+  - HUN
+  - HUN_Bring_In_Daranyi
+-
+ name: HUN_Consolidadte_Gombos_Legacy
+ image: HUN_Consolidadte_Gombos_Legacy.png
+ tags:
+  - HUN
+  - HUN_Consolidadte_Gombos_Legacy
+-
+ name: HUN_Greater_Hungary
+ image: HUN_Greater_Hungary.png
+ tags:
+  - HUN
+  - HUN_Greater_Hungary
+-
+ name: HUN_Hungarian_Air_Force
+ image: HUN_Hungarian_Air_Force.png
+ tags:
+  - HUN
+  - HUN_Hungarian_Air_Force
+  - Air
+  - air
+-
+ name: HUN_Hungarian_Army
+ image: HUN_Hungarian_Army.png
+ tags:
+  - HUN
+  - HUN_Hungarian_Army
+  - Army
+  - army
+-
+ name: HUN_Hungarian_Navy
+ image: HUN_Hungarian_Navy.png
+ tags:
+  - HUN
+  - HUN_Hungarian_Navy
+  - Navy
+  - navy
+-
+ name: HUN_Irredentism_is_the_Way
+ image: HUN_Irredentism_is_the_Way.png
+ tags:
+  - HUN
+  - HUN_Irredentism_is_the_Way
+-
+ name: HUN_Old_Friends_Older_Enemies
+ image: HUN_Old_Friends_Older_Enemies.png
+ tags:
+  - HUN
+  - HUN_Old_Friends_Older_Enemies
+-
+ name: HUN_One_and_Indivisible
+ image: HUN_One_and_Indivisible.png
+ tags:
+  - HUN
+  - HUN_One_and_Indivisible
+-
+ name: HUN_The_Botond
+ image: HUN_The_Botond.png
+ tags:
+  - HUN
+  - HUN_The_Botond
+-
+ name: HUN_The_Missing_Throne
+ image: HUN_The_Missing_Throne.png
+ tags:
+  - HUN
+  - HUN_The_Missing_Throne
+-
+ name: HUN_The_Plebiscite
+ image: HUN_The_Plebiscite.png
+ tags:
+  - HUN
+  - HUN_The_Plebiscite
+-
+ name: HUN_The_Regents_Rule
+ image: HUN_The_Regents_Rule.png
+ tags:
+  - HUN
+  - HUN_The_Regents_Rule
+-
+ name: HUN_The_Third_Attempt
+ image: HUN_The_Third_Attempt.png
+ tags:
+  - HUN
+  - HUN_The_Third_Attempt
+-
+ name: INS_Royal_Netherlands_East_Indies_Army
+ image: INS_Royal_Netherlands_East_Indies_Army.png
+ tags:
+  - INS
+  - INS_Royal_Netherlands_East_Indies_Army
+  - Army
+  - army
+-
+ name: INS_Royal_Netherlands_East_Indies_Army_Air_Force
+ image: INS_Royal_Netherlands_East_Indies_Army_Air_Force.png
+ tags:
+  - INS
+  - INS_Royal_Netherlands_East_Indies_Army_Air_Force
+  - Army
+  - army
+  - Air
+  - air
+-
+ name: INS_Royal_Netherlands_East_Indies_Navy
+ image: INS_Royal_Netherlands_East_Indies_Navy.png
+ tags:
+  - INS
+  - INS_Royal_Netherlands_East_Indies_Navy
+  - Navy
+  - navy
+-
+ name: IRE_Irish_Air_Corps
+ image: IRE_Irish_Air_Corps.png
+ tags:
+  - IRE
+  - IRE_Irish_Air_Corps
+  - Air
+  - air
+-
+ name: IRE_Irish_Army
+ image: IRE_Irish_Army.png
+ tags:
+  - IRE
+  - IRE_Irish_Army
+  - Army
+  - army
+-
+ name: IRE_Irish_Naval_Service
+ image: IRE_Irish_Naval_Service.png
+ tags:
+  - IRE
+  - IRE_Irish_Naval_Service
+-
+ name: IRQ_Kurdish_Question
+ image: IRQ_Kurdish_Question.png
+ tags:
+  - IRQ
+  - IRQ_Kurdish_Question
+-
+ name: IRQ_Royal_Iraqi_Air_Force
+ image: IRQ_Royal_Iraqi_Air_Force.png
+ tags:
+  - IRQ
+  - IRQ_Royal_Iraqi_Air_Force
+  - Air
+  - air
+-
+ name: IRQ_Royal_Iraqi_Army
+ image: IRQ_Royal_Iraqi_Army.png
+ tags:
+  - IRQ
+  - IRQ_Royal_Iraqi_Army
+  - Army
+  - army
+-
+ name: IRQ_Royal_Iraqi_Navy
+ image: IRQ_Royal_Iraqi_Navy.png
+ tags:
+  - IRQ
+  - IRQ_Royal_Iraqi_Navy
+  - Navy
+  - navy
+-
+ name: IRQ_The_Golden_Square
+ image: IRQ_The_Golden_Square.png
+ tags:
+  - IRQ
+  - IRQ_The_Golden_Square
+-
+ name: ITA_Alpini_Expansion
+ image: ITA_Alpini_Expansion.png
+ tags:
+  - ITA
+  - ITA_Alpini_Expansion
+-
+ name: ITA_Construct_the_Via_Balbo
+ image: ITA_Construct_the_Via_Balbo.png
+ tags:
+  - ITA
+  - ITA_Construct_the_Via_Balbo
+-
+ name: ITA_Decima_Flottiglia_MAS
+ image: ITA_Decima_Flottiglia_MAS.png
+ tags:
+  - ITA
+  - ITA_Decima_Flottiglia_MAS
+-
+ name: ITA_Expand_the_OND
+ image: ITA_Expand_the_OND.png
+ tags:
+  - ITA
+  - ITA_Expand_the_OND
+-
+ name: ITA_Ex_Alto_Fulgor
+ image: ITA_Ex_Alto_Fulgor.png
+ tags:
+  - ITA
+  - ITA_Ex_Alto_Fulgor
+-
+ name: ITA_Fourth_Shore
+ image: ITA_Fourth_Shore.png
+ tags:
+  - ITA
+  - ITA_Fourth_Shore
+-
+ name: ITA_Il_Mezzigiorno
+ image: ITA_Il_Mezzigiorno.png
+ tags:
+  - ITA
+  - ITA_Il_Mezzigiorno
+-
+ name: ITA_Il_Nord
+ image: ITA_Il_Nord.png
+ tags:
+  - ITA
+  - ITA_Il_Nord
+-
+ name: ITA_Il_Sparviero
+ image: ITA_Il_Sparviero.png
+ tags:
+  - ITA
+  - ITA_Il_Sparviero
+-
+ name: ITA_Italian_Empire
+ image: ITA_Italian_Empire.png
+ tags:
+  - ITA
+  - ITA_Italian_Empire
+-
+ name: ITA_Italian_Libya
+ image: ITA_Italian_Libya.png
+ tags:
+  - ITA
+  - ITA_Italian_Libya
+-
+ name: ITA_Italian_Oriental_Africa
+ image: ITA_Italian_Oriental_Africa.png
+ tags:
+  - ITA
+  - ITA_Italian_Oriental_Africa
+-
+ name: ITA_Italia_Imperiale
+ image: ITA_Italia_Imperiale.png
+ tags:
+  - ITA
+  - ITA_Italia_Imperiale
+-
+ name: ITA_Italy_First
+ image: ITA_Italy_First.png
+ tags:
+  - ITA
+  - ITA_Italy_First
+-
+ name: ITA_Lariete
+ image: ITA_Lariete.png
+ tags:
+  - ITA
+  - ITA_Lariete
+-
+ name: ITA_La_Folgore
+ image: ITA_La_Folgore.png
+ tags:
+  - ITA
+  - ITA_La_Folgore
+-
+ name: ITA_Mare_Nostrum
+ image: ITA_Mare_Nostrum.png
+ tags:
+  - ITA
+  - ITA_Mare_Nostrum
+-
+ name: ITA_MVSN_Legion
+ image: ITA_MVSN_Legion.png
+ tags:
+  - ITA
+  - ITA_MVSN_Legion
+-
+ name: ITA_M_Tanks
+ image: ITA_M_Tanks.png
+ tags:
+  - ITA
+  - ITA_M_Tanks
+-
+ name: ITA_Pionner_Dual_Purpose_Guns
+ image: ITA_Pionner_Dual_Purpose_Guns.png
+ tags:
+  - ITA
+  - ITA_Pionner_Dual_Purpose_Guns
+-
+ name: ITA_P_Tanks
+ image: ITA_P_Tanks.png
+ tags:
+  - ITA
+  - ITA_P_Tanks
+-
+ name: ITA_Raise_the_Dubats
+ image: ITA_Raise_the_Dubats.png
+ tags:
+  - ITA
+  - ITA_Raise_the_Dubats
+-
+ name: ITA_Regia_Aeronautica
+ image: ITA_Regia_Aeronautica.png
+ tags:
+  - ITA
+  - ITA_Regia_Aeronautica
+-
+ name: ITA_Regia_Marina
+ image: ITA_Regia_Marina.png
+ tags:
+  - ITA
+  - ITA_Regia_Marina
+-
+ name: ITA_Regio_Esercito
+ image: ITA_Regio_Esercito.png
+ tags:
+  - ITA
+  - ITA_Regio_Esercito
+-
+ name: ITA_Return_of_the_Arditi
+ image: ITA_Return_of_the_Arditi.png
+ tags:
+  - ITA
+  - ITA_Return_of_the_Arditi
+-
+ name: ITA_Rome_Berlin_Axis
+ image: ITA_Rome_Berlin_Axis.png
+ tags:
+  - ITA
+  - ITA_Rome_Berlin_Axis
+-
+ name: ITA_Semovente
+ image: ITA_Semovente.png
+ tags:
+  - ITA
+  - ITA_Semovente
+-
+ name: ITA_Stressa_Front
+ image: ITA_Stressa_Front.png
+ tags:
+  - ITA
+  - ITA_Stressa_Front
+-
+ name: ITA_Third_Rome
+ image: ITA_Third_Rome.png
+ tags:
+  - ITA
+  - ITA_Third_Rome
+-
+ name: ITA_Veni_Vedi_Veci
+ image: ITA_Veni_Vedi_Veci.png
+ tags:
+  - ITA
+  - ITA_Veni_Vedi_Veci
+-
+ name: JAP_2_26_Incident
+ image: JAP_2_26_Incident.png
+ tags:
+  - JAP
+  - JAP_2_26_Incident
+-
+ name: JAP_A_Deal_with_the_Reform_Bureaucrats
+ image: JAP_A_Deal_with_the_Reform_Bureaucrats.png
+ tags:
+  - JAP
+  - JAP_A_Deal_with_the_Reform_Bureaucrats
+-
+ name: JAP_A_Gift_from_Kami
+ image: JAP_A_Gift_from_Kami.png
+ tags:
+  - JAP
+  - JAP_A_Gift_from_Kami
+-
+ name: JAP_Cardinal_Principles_of_National_Polity
+ image: JAP_Cardinal_Principles_of_National_Polity.png
+ tags:
+  - JAP
+  - JAP_Cardinal_Principles_of_National_Polity
+-
+ name: JAP_Exporting_our_Radicals_Abroad
+ image: JAP_Exporting_our_Radicals_Abroad.png
+ tags:
+  - JAP
+  - JAP_Exporting_our_Radicals_Abroad
+-
+ name: JAP_Greater_East_Asia_Co_Prosperity_Sphere
+ image: JAP_Greater_East_Asia_Co_Prosperity_Sphere.png
+ tags:
+  - JAP
+  - JAP_Greater_East_Asia_Co_Prosperity_Sphere
+-
+ name: JAP_Hakko_Ichiu
+ image: JAP_Hakko_Ichiu.png
+ tags:
+  - JAP
+  - JAP_Hakko_Ichiu
+-
+ name: JAP_Hirota_Diplomacy
+ image: JAP_Hirota_Diplomacy.png
+ tags:
+  - JAP
+  - JAP_Hirota_Diplomacy
+-
+ name: JAP_Imperial_Army
+ image: JAP_Imperial_Army.png
+ tags:
+  - JAP
+  - JAP_Imperial_Army
+  - Army
+  - army
+-
+ name: JAP_Imperial_Army_Air_Service
+ image: JAP_Imperial_Army_Air_Service.png
+ tags:
+  - JAP
+  - JAP_Imperial_Army_Air_Service
+  - Army
+  - army
+  - Air
+  - air
+-
+ name: JAP_Imperial_Navy
+ image: JAP_Imperial_Navy.png
+ tags:
+  - JAP
+  - JAP_Imperial_Navy
+  - Navy
+  - navy
+-
+ name: JAP_Imperial_Navy_Air_Service
+ image: JAP_Imperial_Navy_Air_Service.png
+ tags:
+  - JAP
+  - JAP_Imperial_Navy_Air_Service
+  - Air
+  - air
+  - Navy
+  - navy
+-
+ name: JAP_Imperial_Rule_Assistance_Association
+ image: JAP_Imperial_Rule_Assistance_Association.png
+ tags:
+  - JAP
+  - JAP_Imperial_Rule_Assistance_Association
+-
+ name: JAP_In_the_Name_of_the_Kokutai
+ image: JAP_In_the_Name_of_the_Kokutai.png
+ tags:
+  - JAP
+  - JAP_In_the_Name_of_the_Kokutai
+-
+ name: JAP_Konoe_Cabinet
+ image: JAP_Konoe_Cabinet.png
+ tags:
+  - JAP
+  - JAP_Konoe_Cabinet
+-
+ name: JAP_Konoe_Cabinet_2
+ image: JAP_Konoe_Cabinet_2.png
+ tags:
+  - JAP
+  - JAP_Konoe_Cabinet_2
+-
+ name: JAP_Matsuoka_Diplomacy
+ image: JAP_Matsuoka_Diplomacy.png
+ tags:
+  - JAP
+  - JAP_Matsuoka_Diplomacy
+-
+ name: JAP_Nakano_Cabinet
+ image: JAP_Nakano_Cabinet.png
+ tags:
+  - JAP
+  - JAP_Nakano_Cabinet
+-
+ name: JAP_Okada_Cabinet
+ image: JAP_Okada_Cabinet.png
+ tags:
+  - JAP
+  - JAP_Okada_Cabinet
+-
+ name: JAP_Ones_Act_Ones_Profit
+ image: JAP_Ones_Act_Ones_Profit.png
+ tags:
+  - JAP
+  - JAP_Ones_Act_Ones_Profit
+-
+ name: JAP_Shidehara_Diplomacy
+ image: JAP_Shidehara_Diplomacy.png
+ tags:
+  - JAP
+  - JAP_Shidehara_Diplomacy
+-
+ name: JAP_The_Birth_of_the_Reform_Bureaucrats
+ image: JAP_The_Birth_of_the_Reform_Bureaucrats.png
+ tags:
+  - JAP
+  - JAP_The_Birth_of_the_Reform_Bureaucrats
+-
+ name: JAP_The_Peaks_Inevitable_Slope
+ image: JAP_The_Peaks_Inevitable_Slope.png
+ tags:
+  - JAP
+  - JAP_The_Peaks_Inevitable_Slope
+-
+ name: JAP_The_Shadow_Behind_the_Throne
+ image: JAP_The_Shadow_Behind_the_Throne.png
+ tags:
+  - JAP
+  - JAP_The_Shadow_Behind_the_Throne
+-
+ name: JAP_The_Way_of_Subjects
+ image: JAP_The_Way_of_Subjects.png
+ tags:
+  - JAP
+  - JAP_The_Way_of_Subjects
+-
+ name: JAP_The_Yen_Bloc
+ image: JAP_The_Yen_Bloc.png
+ tags:
+  - JAP
+  - JAP_The_Yen_Bloc
+-
+ name: JAP_Tojo_Cabinet
+ image: JAP_Tojo_Cabinet.png
+ tags:
+  - JAP
+  - JAP_Tojo_Cabinet
+-
+ name: LAT_Latvian_Air_Force
+ image: LAT_Latvian_Air_Force.png
+ tags:
+  - LAT
+  - LAT_Latvian_Air_Force
+  - Air
+  - air
+-
+ name: LAT_Latvian_Land_Forces
+ image: LAT_Latvian_Land_Forces.png
+ tags:
+  - LAT
+  - LAT_Latvian_Land_Forces
+-
+ name: LAT_Latvian_Naval_Forces
+ image: LAT_Latvian_Naval_Forces.png
+ tags:
+  - LAT
+  - LAT_Latvian_Naval_Forces
+-
+ name: MAN_Five_Races_under_One_Union
+ image: MAN_Five_Races_under_One_Union.png
+ tags:
+  - MAN
+  - MAN_Five_Races_under_One_Union
+-
+ name: MAN_Imperial_Chinese_Air_Force
+ image: MAN_Imperial_Chinese_Air_Force.png
+ tags:
+  - MAN
+  - MAN_Imperial_Chinese_Air_Force
+  - Air
+  - air
+-
+ name: MAN_Imperial_Chinese_Army
+ image: MAN_Imperial_Chinese_Army.png
+ tags:
+  - MAN
+  - MAN_Imperial_Chinese_Army
+  - Army
+  - army
+-
+ name: MAN_Imperial_Chinese_Navy
+ image: MAN_Imperial_Chinese_Navy.png
+ tags:
+  - MAN
+  - MAN_Imperial_Chinese_Navy
+  - Navy
+  - navy
+-
+ name: MAN_Invite_Japanese_Leftists
+ image: MAN_Invite_Japanese_Leftists.png
+ tags:
+  - MAN
+  - MAN_Invite_Japanese_Leftists
+-
+ name: MAN_Manchukuo_Imperial_Air_Force
+ image: MAN_Manchukuo_Imperial_Air_Force.png
+ tags:
+  - MAN
+  - MAN_Manchukuo_Imperial_Air_Force
+  - Air
+  - air
+-
+ name: MAN_Manchukuo_Imperial_Army
+ image: MAN_Manchukuo_Imperial_Army.png
+ tags:
+  - MAN
+  - MAN_Manchukuo_Imperial_Army
+  - Army
+  - army
+-
+ name: MAN_Manchukuo_Imperial_Navy
+ image: MAN_Manchukuo_Imperial_Navy.png
+ tags:
+  - MAN
+  - MAN_Manchukuo_Imperial_Navy
+  - Navy
+  - navy
+-
+ name: MAN_Power_to_the_Kwantung_Army
+ image: MAN_Power_to_the_Kwantung_Army.png
+ tags:
+  - MAN
+  - MAN_Power_to_the_Kwantung_Army
+  - Army
+  - army
+-
+ name: MAN_Promote_A_Manchurian_Identity
+ image: MAN_Promote_A_Manchurian_Identity.png
+ tags:
+  - MAN
+  - MAN_Promote_A_Manchurian_Identity
+-
+ name: MAN_The_Blooming_of_the_Sakura
+ image: MAN_The_Blooming_of_the_Sakura.png
+ tags:
+  - MAN
+  - MAN_The_Blooming_of_the_Sakura
+-
+ name: MEN_Inner_Mongolian_Army
+ image: MEN_Inner_Mongolian_Army.png
+ tags:
+  - MEN
+  - MEN_Inner_Mongolian_Army
+  - Army
+  - army
+-
+ name: MON_Peoples_Mongolian_Air_Force
+ image: MON_Peoples_Mongolian_Air_Force.png
+ tags:
+  - MON
+  - MON_Peoples_Mongolian_Air_Force
+  - Air
+  - air
+-
+ name: MON_Peoples_Mongolian_Army
+ image: MON_Peoples_Mongolian_Army.png
+ tags:
+  - MON
+  - MON_Peoples_Mongolian_Army
+  - Army
+  - army
+-
+ name: NOR_Norwegian_Army
+ image: NOR_Norwegian_Army.png
+ tags:
+  - NOR
+  - NOR_Norwegian_Army
+  - Army
+  - army
+-
+ name: NOR_Royal_Norwegian_Air_Force
+ image: NOR_Royal_Norwegian_Air_Force.png
+ tags:
+  - NOR
+  - NOR_Royal_Norwegian_Air_Force
+  - Air
+  - air
+-
+ name: NOR_Royal_Norwegian_Navy
+ image: NOR_Royal_Norwegian_Navy.png
+ tags:
+  - NOR
+  - NOR_Royal_Norwegian_Navy
+  - Navy
+  - navy
+-
+ name: NZL_New_Zealand_Army
+ image: NZL_New_Zealand_Army.png
+ tags:
+  - NZL
+  - NZL_New_Zealand_Army
+  - Army
+  - army
+-
+ name: NZL_Royal_New_Zealand_Air_Force
+ image: NZL_Royal_New_Zealand_Air_Force.png
+ tags:
+  - NZL
+  - NZL_Royal_New_Zealand_Air_Force
+  - Air
+  - air
+-
+ name: NZL_Royal_New_Zealand_Navy
+ image: NZL_Royal_New_Zealand_Navy.png
+ tags:
+  - NZL
+  - NZL_Royal_New_Zealand_Navy
+  - Navy
+  - navy
+-
+ name: OTT_Ottoman Air Force
+ image: OTT_Ottoman Air Force.png
+ tags:
+  - OTT
+  - OTT_Ottoman Air Force
+-
+ name: OTT_Ottoman Army
+ image: OTT_Ottoman Army.png
+ tags:
+  - OTT
+  - OTT_Ottoman Army
+-
+ name: OTT_Ottoman Navy
+ image: OTT_Ottoman Navy.png
+ tags:
+  - OTT
+  - OTT_Ottoman Navy
+-
+ name: PER_Copy_Ataturk
+ image: PER_Copy_Ataturk.png
+ tags:
+  - PER
+  - PER_Copy_Ataturk
+-
+ name: PER_Crush_Mosque
+ image: PER_Crush_Mosque.png
+ tags:
+  - PER
+  - PER_Crush_Mosque
+-
+ name: PER_Imperial_Iranian_Air_Force
+ image: PER_Imperial_Iranian_Air_Force.png
+ tags:
+  - PER
+  - PER_Imperial_Iranian_Air_Force
+  - Air
+  - air
+-
+ name: PER_Imperial_Iranian_Army
+ image: PER_Imperial_Iranian_Army.png
+ tags:
+  - PER
+  - PER_Imperial_Iranian_Army
+  - Army
+  - army
+-
+ name: PER_Imperial_Iranian_Navy
+ image: PER_Imperial_Iranian_Navy.png
+ tags:
+  - PER
+  - PER_Imperial_Iranian_Navy
+  - Navy
+  - navy
+-
+ name: PER_Iran_Now
+ image: PER_Iran_Now.png
+ tags:
+  - PER
+  - PER_Iran_Now
+-
+ name: POL_Central_Industrial_Region
+ image: POL_Central_Industrial_Region.png
+ tags:
+  - POL
+  - POL_Central_Industrial_Region
+-
+ name: POL_Cult_of_the_Marshall
+ image: POL_Cult_of_the_Marshall.png
+ tags:
+  - POL
+  - POL_Cult_of_the_Marshall
+-
+ name: POL_Five_Year_Plan
+ image: POL_Five_Year_Plan.png
+ tags:
+  - POL
+  - POL_Five_Year_Plan
+-
+ name: POL_Form_the_OZN
+ image: POL_Form_the_OZN.png
+ tags:
+  - POL
+  - POL_Form_the_OZN
+-
+ name: POL_Plan_Wschod
+ image: POL_Plan_Wschod.png
+ tags:
+  - POL
+  - POL_Plan_Wschod
+-
+ name: POL_Plan_Zachod
+ image: POL_Plan_Zachod.png
+ tags:
+  - POL
+  - POL_Plan_Zachod
+-
+ name: POL_Polish_Air_Force
+ image: POL_Polish_Air_Force.png
+ tags:
+  - POL
+  - POL_Polish_Air_Force
+  - Air
+  - air
+-
+ name: POL_Polish_Army
+ image: POL_Polish_Army.png
+ tags:
+  - POL
+  - POL_Polish_Army
+  - Army
+  - army
+-
+ name: POL_Polish_Economy
+ image: POL_Polish_Economy.png
+ tags:
+  - POL
+  - POL_Polish_Economy
+-
+ name: POL_Polish_Navy
+ image: POL_Polish_Navy.png
+ tags:
+  - POL
+  - POL_Polish_Navy
+  - Navy
+  - navy
+-
+ name: POL_SEPEWE_Sindicate
+ image: POL_SEPEWE_Sindicate.png
+ tags:
+  - POL
+  - POL_SEPEWE_Sindicate
+-
+ name: POL_Strengthen_the_Zloty
+ image: POL_Strengthen_the_Zloty.png
+ tags:
+  - POL
+  - POL_Strengthen_the_Zloty
+-
+ name: POL_Undergrownd_Contacts
+ image: POL_Undergrownd_Contacts.png
+ tags:
+  - POL
+  - POL_Undergrownd_Contacts
+-
+ name: POR_Portuguese_Air_Force
+ image: POR_Portuguese_Air_Force.png
+ tags:
+  - POR
+  - POR_Portuguese_Air_Force
+  - Air
+  - air
+-
+ name: POR_Portuguese_Army
+ image: POR_Portuguese_Army.png
+ tags:
+  - POR
+  - POR_Portuguese_Army
+  - Army
+  - army
+-
+ name: POR_Portuguese_Navy
+ image: POR_Portuguese_Navy.png
+ tags:
+  - POR
+  - POR_Portuguese_Navy
+  - Navy
+  - navy
+-
+ name: PRC_8_Points_of_Attention
+ image: PRC_8_Points_of_Attention.png
+ tags:
+  - PRC
+  - PRC_8_Points_of_Attention
+-
+ name: PRC_Chinese_Red_Army
+ image: PRC_Chinese_Red_Army.png
+ tags:
+  - PRC
+  - PRC_Chinese_Red_Army
+  - Army
+  - army
+-
+ name: PRC_Fortify_Jiangxi_Soviet
+ image: PRC_Fortify_Jiangxi_Soviet.png
+ tags:
+  - PRC
+  - PRC_Fortify_Jiangxi_Soviet
+-
+ name: PRC_Mao_Zedong
+ image: PRC_Mao_Zedong.png
+ tags:
+  - PRC
+  - PRC_Mao_Zedong
+-
+ name: PRC_Otto_Braun_in_Command
+ image: PRC_Otto_Braun_in_Command.png
+ tags:
+  - PRC
+  - PRC_Otto_Braun_in_Command
+-
+ name: PRC_Peoples_Liberation_Army
+ image: PRC_Peoples_Liberation_Army.png
+ tags:
+  - PRC
+  - PRC_Peoples_Liberation_Army
+  - Army
+  - army
+-
+ name: PRC_Peoples_Liberation_Army_Air_Force
+ image: PRC_Peoples_Liberation_Army_Air_Force.png
+ tags:
+  - PRC
+  - PRC_Peoples_Liberation_Army_Air_Force
+  - Army
+  - army
+  - Air
+  - air
+-
+ name: PRC_Peoples_Liberation_Army_Navy
+ image: PRC_Peoples_Liberation_Army_Navy.png
+ tags:
+  - PRC
+  - PRC_Peoples_Liberation_Army_Navy
+  - Army
+  - army
+  - Navy
+  - navy
+-
+ name: PRC_PLA
+ image: PRC_PLA.png
+ tags:
+  - PRC
+  - PRC_PLA
+-
+ name: PRC_The_Long_March
+ image: PRC_The_Long_March.png
+ tags:
+  - PRC
+  - PRC_The_Long_March
+-
+ name: PRC_Wang_Ming
+ image: PRC_Wang_Ming.png
+ tags:
+  - PRC
+  - PRC_Wang_Ming
+-
+ name: PRC_War_of_National_Liberation
+ image: PRC_War_of_National_Liberation.png
+ tags:
+  - PRC
+  - PRC_War_of_National_Liberation
+-
+ name: PRC_Zhang_Guotao
+ image: PRC_Zhang_Guotao.png
+ tags:
+  - PRC
+  - PRC_Zhang_Guotao
+-
+ name: PRC_Zunyi_Conference
+ image: PRC_Zunyi_Conference.png
+ tags:
+  - PRC
+  - PRC_Zunyi_Conference
+-
+ name: RAJ_British_Indian_Air_Force
+ image: RAJ_British_Indian_Air_Force.png
+ tags:
+  - RAJ
+  - RAJ_British_Indian_Air_Force
+  - Air
+  - air
+-
+ name: RAJ_British_Indian_Army
+ image: RAJ_British_Indian_Army.png
+ tags:
+  - RAJ
+  - RAJ_British_Indian_Army
+  - Army
+  - army
+-
+ name: RAJ_Royal_Indian_Navy
+ image: RAJ_Royal_Indian_Navy.png
+ tags:
+  - RAJ
+  - RAJ_Royal_Indian_Navy
+  - Navy
+  - navy
+-
+ name: RNG_Chinese_Air_Force
+ image: RNG_Chinese_Air_Force.png
+ tags:
+  - RNG
+  - RNG_Chinese_Air_Force
+  - Air
+  - air
+-
+ name: RNG_Chinese_Army
+ image: RNG_Chinese_Army.png
+ tags:
+  - RNG
+  - RNG_Chinese_Army
+  - Army
+  - army
+-
+ name: RNG_Chinese_Navy
+ image: RNG_Chinese_Navy.png
+ tags:
+  - RNG
+  - RNG_Chinese_Navy
+  - Navy
+  - navy
+-
+ name: ROM_Crush_the_Iron_Guard
+ image: ROM_Crush_the_Iron_Guard.png
+ tags:
+  - ROM
+  - ROM_Crush_the_Iron_Guard
+-
+ name: ROM_Deal_with_the_Iron_Guard
+ image: ROM_Deal_with_the_Iron_Guard.png
+ tags:
+  - ROM
+  - ROM_Deal_with_the_Iron_Guard
+-
+ name: ROM_General_Elections
+ image: ROM_General_Elections.png
+ tags:
+  - ROM
+  - ROM_General_Elections
+-
+ name: ROM_Industria_Aeronautica_Romana
+ image: ROM_Industria_Aeronautica_Romana.png
+ tags:
+  - ROM
+  - ROM_Industria_Aeronautica_Romana
+-
+ name: ROM_Investment_in_MALAXA
+ image: ROM_Investment_in_MALAXA.png
+ tags:
+  - ROM
+  - ROM_Investment_in_MALAXA
+-
+ name: ROM_Mobilizing_the_Legionaries
+ image: ROM_Mobilizing_the_Legionaries.png
+ tags:
+  - ROM
+  - ROM_Mobilizing_the_Legionaries
+-
+ name: ROM_National_Christian_Government
+ image: ROM_National_Christian_Government.png
+ tags:
+  - ROM
+  - ROM_National_Christian_Government
+-
+ name: ROM_National_Renaissance_Front
+ image: ROM_National_Renaissance_Front.png
+ tags:
+  - ROM
+  - ROM_National_Renaissance_Front
+-
+ name: ROM_Ousting_the_Autocrat
+ image: ROM_Ousting_the_Autocrat.png
+ tags:
+  - ROM
+  - ROM_Ousting_the_Autocrat
+-
+ name: ROM_Romanian_Airforce
+ image: ROM_Romanian_Airforce.png
+ tags:
+  - ROM
+  - ROM_Romanian_Airforce
+-
+ name: ROM_Romanian_Army
+ image: ROM_Romanian_Army.png
+ tags:
+  - ROM
+  - ROM_Romanian_Army
+  - Army
+  - army
+-
+ name: ROM_Romanian_Navy
+ image: ROM_Romanian_Navy.png
+ tags:
+  - ROM
+  - ROM_Romanian_Navy
+  - Navy
+  - navy
+-
+ name: ROM_Supreme_Leader_Codreanu
+ image: ROM_Supreme_Leader_Codreanu.png
+ tags:
+  - ROM
+  - ROM_Supreme_Leader_Codreanu
+-
+ name: ROM_The_Conducator_Declares_the_Legionary_State
+ image: ROM_The_Conducator_Declares_the_Legionary_State.png
+ tags:
+  - ROM
+  - ROM_The_Conducator_Declares_the_Legionary_State
+-
+ name: ROM_Vanatori_de_Munte
+ image: ROM_Vanatori_de_Munte.png
+ tags:
+  - ROM
+  - ROM_Vanatori_de_Munte
+-
+ name: RSI_Inaugurate_the_Guardia_Nazionale_Repubblicana
+ image: RSI_Inaugurate_the_Guardia_Nazionale_Repubblicana.png
+ tags:
+  - RSI
+  - RSI_Inaugurate_the_Guardia_Nazionale_Repubblicana
+-
+ name: RSI_National_Republican_Army
+ image: RSI_National_Republican_Army.png
+ tags:
+  - RSI
+  - RSI_National_Republican_Army
+  - Army
+  - army
+-
+ name: RSI_Return_of_Il_Duce
+ image: RSI_Return_of_Il_Duce.png
+ tags:
+  - RSI
+  - RSI_Return_of_Il_Duce
+-
+ name: RSI_The_Reconquest
+ image: RSI_The_Reconquest.png
+ tags:
+  - RSI
+  - RSI_The_Reconquest
+-
+ name: SAF_An_Industrialized_South_Africa
+ image: SAF_An_Industrialized_South_Africa.png
+ tags:
+  - SAF
+  - SAF_An_Industrialized_South_Africa
+-
+ name: SAF_Bush_Warfare
+ image: SAF_Bush_Warfare.png
+ tags:
+  - SAF
+  - SAF_Bush_Warfare
+-
+ name: SAF_Bush_Warriors
+ image: SAF_Bush_Warriors.png
+ tags:
+  - SAF
+  - SAF_Bush_Warriors
+-
+ name: SAF_Help_out_the_Protectorates
+ image: SAF_Help_out_the_Protectorates.png
+ tags:
+  - SAF
+  - SAF_Help_out_the_Protectorates
+-
+ name: SAF_Increase_Afrikaner_Privileges
+ image: SAF_Increase_Afrikaner_Privileges.png
+ tags:
+  - SAF
+  - SAF_Increase_Afrikaner_Privileges
+-
+ name: SAF_National_Party_Victory_Hertzog
+ image: SAF_National_Party_Victory_Hertzog.png
+ tags:
+  - SAF
+  - SAF_National_Party_Victory_Hertzog
+-
+ name: SAF_South_African_Air_Force
+ image: SAF_South_African_Air_Force.png
+ tags:
+  - SAF
+  - SAF_South_African_Air_Force
+  - Air
+  - air
+-
+ name: SAF_South_African_Army
+ image: SAF_South_African_Army.png
+ tags:
+  - SAF
+  - SAF_South_African_Army
+  - Army
+  - army
+-
+ name: SAF_South_African_Elections
+ image: SAF_South_African_Elections.png
+ tags:
+  - SAF
+  - SAF_South_African_Elections
+-
+ name: SAF_South_African_Navy
+ image: SAF_South_African_Navy.png
+ tags:
+  - SAF
+  - SAF_South_African_Navy
+  - Navy
+  - navy
+-
+ name: SAF_South_African_Party_Victory
+ image: SAF_South_African_Party_Victory.png
+ tags:
+  - SAF
+  - SAF_South_African_Party_Victory
+-
+ name: SAF_United_Party_Merger
+ image: SAF_United_Party_Merger.png
+ tags:
+  - SAF
+  - SAF_United_Party_Merger
+-
+ name: SAF_United_Party_Victory
+ image: SAF_United_Party_Victory.png
+ tags:
+  - SAF
+  - SAF_United_Party_Victory
+-
+ name: SIA_Royal_Thai_Air_Force
+ image: SIA_Royal_Thai_Air_Force.png
+ tags:
+  - SIA
+  - SIA_Royal_Thai_Air_Force
+  - Air
+  - air
+-
+ name: SIA_Royal_Thai_Army
+ image: SIA_Royal_Thai_Army.png
+ tags:
+  - SIA
+  - SIA_Royal_Thai_Army
+  - Army
+  - army
+-
+ name: SIA_Royal_Thai_Navy
+ image: SIA_Royal_Thai_Navy.png
+ tags:
+  - SIA
+  - SIA_Royal_Thai_Navy
+  - Navy
+  - navy
+-
+ name: SIK_Pan_Turanism
+ image: SIK_Pan_Turanism.png
+ tags:
+  - SIK
+  - SIK_Pan_Turanism
+-
+ name: SIK_Pan_Turkism
+ image: SIK_Pan_Turkism.png
+ tags:
+  - SIK
+  - SIK_Pan_Turkism
+-
+ name: SIK_Sinkiang_Army
+ image: SIK_Sinkiang_Army.png
+ tags:
+  - SIK
+  - SIK_Sinkiang_Army
+  - Army
+  - army
+-
+ name: SLO_Slovak_Air_Force
+ image: SLO_Slovak_Air_Force.png
+ tags:
+  - SLO
+  - SLO_Slovak_Air_Force
+  - Air
+  - air
+-
+ name: SLO_Slovak_Army
+ image: SLO_Slovak_Army.png
+ tags:
+  - SLO
+  - SLO_Slovak_Army
+  - Army
+  - army
+-
+ name: SLO_Slovak_Navy
+ image: SLO_Slovak_Navy.png
+ tags:
+  - SLO
+  - SLO_Slovak_Navy
+  - Navy
+  - navy
+-
+ name: SOV_Aeroflot
+ image: SOV_Aeroflot.png
+ tags:
+  - SOV
+  - SOV_Aeroflot
+-
+ name: SOV_A_Second_Power_Struggle
+ image: SOV_A_Second_Power_Struggle.png
+ tags:
+  - SOV
+  - SOV_A_Second_Power_Struggle
+-
+ name: SOV_Beria_Flight
+ image: SOV_Beria_Flight.png
+ tags:
+  - SOV
+  - SOV_Beria_Flight
+-
+ name: SOV_Breadbasket_of_the_Union
+ image: SOV_Breadbasket_of_the_Union.png
+ tags:
+  - SOV
+  - SOV_Breadbasket_of_the_Union
+-
+ name: SOV_Btr60
+ image: SOV_Btr60.png
+ tags:
+  - SOV
+  - SOV_Btr60
+-
+ name: SOV_BT_Cavalry_Tanks
+ image: SOV_BT_Cavalry_Tanks.png
+ tags:
+  - SOV
+  - SOV_BT_Cavalry_Tanks
+-
+ name: SOV_COMECON
+ image: SOV_COMECON.png
+ tags:
+  - SOV
+  - SOV_COMECON
+-
+ name: SOV_Constitution
+ image: SOV_Constitution.png
+ tags:
+  - SOV
+  - SOV_Constitution
+-
+ name: SOV_Direct_Rule_from_Moscow
+ image: SOV_Direct_Rule_from_Moscow.png
+ tags:
+  - SOV
+  - SOV_Direct_Rule_from_Moscow
+-
+ name: SOV_Five_Year_Plan
+ image: SOV_Five_Year_Plan.png
+ tags:
+  - SOV
+  - SOV_Five_Year_Plan
+-
+ name: SOV_Gigatomaniac_Agrotowns
+ image: SOV_Gigatomaniac_Agrotowns.png
+ tags:
+  - SOV
+  - SOV_Gigatomaniac_Agrotowns
+-
+ name: SOV_Great_Purge
+ image: SOV_Great_Purge.png
+ tags:
+  - SOV
+  - SOV_Great_Purge
+-
+ name: SOV_Gulag
+ image: SOV_Gulag.png
+ tags:
+  - SOV
+  - SOV_Gulag
+-
+ name: SOV_Human_Wave
+ image: SOV_Human_Wave.png
+ tags:
+  - SOV
+  - SOV_Human_Wave
+-
+ name: SOV_Ignore_the_Kellog_Briand_Pact
+ image: SOV_Ignore_the_Kellog_Briand_Pact.png
+ tags:
+  - SOV
+  - SOV_Ignore_the_Kellog_Briand_Pact
+-
+ name: SOV_KGB
+ image: SOV_KGB.png
+ tags:
+  - SOV
+  - SOV_KGB
+-
+ name: SOV_Kiev_Maneuvers
+ image: SOV_Kiev_Maneuvers.png
+ tags:
+  - SOV
+  - SOV_Kiev_Maneuvers
+-
+ name: SOV_Kirov_Assassination
+ image: SOV_Kirov_Assassination.png
+ tags:
+  - SOV
+  - SOV_Kirov_Assassination
+-
+ name: SOV_Kolkhoz_Farms
+ image: SOV_Kolkhoz_Farms.png
+ tags:
+  - SOV
+  - SOV_Kolkhoz_Farms
+-
+ name: SOV_Lavochkin
+ image: SOV_Lavochkin.png
+ tags:
+  - SOV
+  - SOV_Lavochkin
+-
+ name: SOV_Leningrad_Circle
+ image: SOV_Leningrad_Circle.png
+ tags:
+  - SOV
+  - SOV_Leningrad_Circle
+-
+ name: SOV_Lenin_Cult
+ image: SOV_Lenin_Cult.png
+ tags:
+  - SOV
+  - SOV_Lenin_Cult
+-
+ name: SOV_Litvinov_Doctrine
+ image: SOV_Litvinov_Doctrine.png
+ tags:
+  - SOV
+  - SOV_Litvinov_Doctrine
+-
+ name: SOV_Maintain_Litvinov
+ image: SOV_Maintain_Litvinov.png
+ tags:
+  - SOV
+  - SOV_Maintain_Litvinov
+-
+ name: SOV_Malenkovs_Pragmatic_Faction
+ image: SOV_Malenkovs_Pragmatic_Faction.png
+ tags:
+  - SOV
+  - SOV_Malenkovs_Pragmatic_Faction
+-
+ name: SOV_March_on_the_Kremlin
+ image: SOV_March_on_the_Kremlin.png
+ tags:
+  - SOV
+  - SOV_March_on_the_Kremlin
+-
+ name: SOV_Mass_Arrest_Political_Enemies
+ image: SOV_Mass_Arrest_Political_Enemies.png
+ tags:
+  - SOV
+  - SOV_Mass_Arrest_Political_Enemies
+-
+ name: SOV_Mechanized_Wave
+ image: SOV_Mechanized_Wave.png
+ tags:
+  - SOV
+  - SOV_Mechanized_Wave
+-
+ name: SOV_MiG15
+ image: SOV_MiG15.png
+ tags:
+  - SOV
+  - SOV_MiG15
+-
+ name: SOV_MiG9
+ image: SOV_MiG9.png
+ tags:
+  - SOV
+  - SOV_MiG9
+-
+ name: SOV_Molotov_Doctrine
+ image: SOV_Molotov_Doctrine.png
+ tags:
+  - SOV
+  - SOV_Molotov_Doctrine
+-
+ name: SOV_Moscow_Trials
+ image: SOV_Moscow_Trials.png
+ tags:
+  - SOV
+  - SOV_Moscow_Trials
+-
+ name: SOV_Multi_Turreted_Tanks
+ image: SOV_Multi_Turreted_Tanks.png
+ tags:
+  - SOV
+  - SOV_Multi_Turreted_Tanks
+-
+ name: SOV_NKVD
+ image: SOV_NKVD.png
+ tags:
+  - SOV
+  - SOV_NKVD
+-
+ name: SOV_NKVD_Agranov
+ image: SOV_NKVD_Agranov.png
+ tags:
+  - SOV
+  - SOV_NKVD_Agranov
+-
+ name: SOV_NKVD_Yagoda
+ image: SOV_NKVD_Yagoda.png
+ tags:
+  - SOV
+  - SOV_NKVD_Yagoda
+-
+ name: SOV_OKBs
+ image: SOV_OKBs.png
+ tags:
+  - SOV
+  - SOV_OKBs
+-
+ name: SOV_Palace_of_the_Soviets
+ image: SOV_Palace_of_the_Soviets.png
+ tags:
+  - SOV
+  - SOV_Palace_of_the_Soviets
+-
+ name: SOV_Peoples_Army
+ image: SOV_Peoples_Army.png
+ tags:
+  - SOV
+  - SOV_Peoples_Army
+  - Army
+  - army
+-
+ name: SOV_Peoples_Front_Theory
+ image: SOV_Peoples_Front_Theory.png
+ tags:
+  - SOV
+  - SOV_Peoples_Front_Theory
+-
+ name: SOV_Permanent_Revolution
+ image: SOV_Permanent_Revolution.png
+ tags:
+  - SOV
+  - SOV_Permanent_Revolution
+-
+ name: SOV_Portray_A_Global_Soviet_Image
+ image: SOV_Portray_A_Global_Soviet_Image.png
+ tags:
+  - SOV
+  - SOV_Portray_A_Global_Soviet_Image
+-
+ name: SOV_Premier_Bukharin
+ image: SOV_Premier_Bukharin.png
+ tags:
+  - SOV
+  - SOV_Premier_Bukharin
+-
+ name: SOV_Premier_Trotsky
+ image: SOV_Premier_Trotsky.png
+ tags:
+  - SOV
+  - SOV_Premier_Trotsky
+-
+ name: SOV_Proletariat_Dictatorship
+ image: SOV_Proletariat_Dictatorship.png
+ tags:
+  - SOV
+  - SOV_Proletariat_Dictatorship
+-
+ name: SOV_R7
+ image: SOV_R7.png
+ tags:
+  - SOV
+  - SOV_R7
+-
+ name: SOV_RCW_Red_Army
+ image: SOV_RCW_Red_Army.png
+ tags:
+  - SOV
+  - SOV_RCW_Red_Army
+  - Army
+  - army
+-
+ name: SOV_RCW_Russia
+ image: SOV_RCW_Russia.png
+ tags:
+  - SOV
+  - SOV_RCW_Russia
+-
+ name: SOV_Reaffirm_Role_of_the_Politburo
+ image: SOV_Reaffirm_Role_of_the_Politburo.png
+ tags:
+  - SOV
+  - SOV_Reaffirm_Role_of_the_Politburo
+-
+ name: SOV_Reduce_Power_of_the_Politburo
+ image: SOV_Reduce_Power_of_the_Politburo.png
+ tags:
+  - SOV
+  - SOV_Reduce_Power_of_the_Politburo
+-
+ name: SOV_Red_Airforce
+ image: SOV_Red_Airforce.png
+ tags:
+  - SOV
+  - SOV_Red_Airforce
+-
+ name: SOV_Red_Army
+ image: SOV_Red_Army.png
+ tags:
+  - SOV
+  - SOV_Red_Army
+  - Army
+  - army
+-
+ name: SOV_Red_Fleet
+ image: SOV_Red_Fleet.png
+ tags:
+  - SOV
+  - SOV_Red_Fleet
+-
+ name: SOV_Red_Guard
+ image: SOV_Red_Guard.png
+ tags:
+  - SOV
+  - SOV_Red_Guard
+-
+ name: SOV_Red_Marines
+ image: SOV_Red_Marines.png
+ tags:
+  - SOV
+  - SOV_Red_Marines
+-
+ name: SOV_Red_Rockets
+ image: SOV_Red_Rockets.png
+ tags:
+  - SOV
+  - SOV_Red_Rockets
+-
+ name: SOV_Reinforce_the_Third_Periodist_Theory
+ image: SOV_Reinforce_the_Third_Periodist_Theory.png
+ tags:
+  - SOV
+  - SOV_Reinforce_the_Third_Periodist_Theory
+-
+ name: SOV_Replace_Litvinov
+ image: SOV_Replace_Litvinov.png
+ tags:
+  - SOV
+  - SOV_Replace_Litvinov
+-
+ name: SOV_Reverse_Korenizatsiya
+ image: SOV_Reverse_Korenizatsiya.png
+ tags:
+  - SOV
+  - SOV_Reverse_Korenizatsiya
+-
+ name: SOV_Rule_by_Force
+ image: SOV_Rule_by_Force.png
+ tags:
+  - SOV
+  - SOV_Rule_by_Force
+-
+ name: SOV_Russification_Policies
+ image: SOV_Russification_Policies.png
+ tags:
+  - SOV
+  - SOV_Russification_Policies
+-
+ name: SOV_Russification_Policies_1
+ image: SOV_Russification_Policies_1.png
+ tags:
+  - SOV
+  - SOV_Russification_Policies_1
+-
+ name: SOV_Russification_Policies_2
+ image: SOV_Russification_Policies_2.png
+ tags:
+  - SOV
+  - SOV_Russification_Policies_2
+-
+ name: SOV_SMERSH
+ image: SOV_SMERSH.png
+ tags:
+  - SOV
+  - SOV_SMERSH
+-
+ name: SOV_Socialist_Justice
+ image: SOV_Socialist_Justice.png
+ tags:
+  - SOV
+  - SOV_Socialist_Justice
+-
+ name: SOV_Socialist_Science
+ image: SOV_Socialist_Science.png
+ tags:
+  - SOV
+  - SOV_Socialist_Science
+-
+ name: SOV_Soviet_Air_Defence_Forces
+ image: SOV_Soviet_Air_Defence_Forces.png
+ tags:
+  - SOV
+  - SOV_Soviet_Air_Defence_Forces
+  - Air
+  - air
+-
+ name: SOV_Soviet_Democracy
+ image: SOV_Soviet_Democracy.png
+ tags:
+  - SOV
+  - SOV_Soviet_Democracy
+-
+ name: SOV_Sovkhoz_Farms
+ image: SOV_Sovkhoz_Farms.png
+ tags:
+  - SOV
+  - SOV_Sovkhoz_Farms
+-
+ name: SOV_Sputnik
+ image: SOV_Sputnik.png
+ tags:
+  - SOV
+  - SOV_Sputnik
+-
+ name: SOV_Stalins_Shooting_List
+ image: SOV_Stalins_Shooting_List.png
+ tags:
+  - SOV
+  - SOV_Stalins_Shooting_List
+-
+ name: SOV_Stalin_Constitution
+ image: SOV_Stalin_Constitution.png
+ tags:
+  - SOV
+  - SOV_Stalin_Constitution
+-
+ name: SOV_Stalin_Cult
+ image: SOV_Stalin_Cult.png
+ tags:
+  - SOV
+  - SOV_Stalin_Cult
+-
+ name: SOV_Stalin_Outmaneuvered
+ image: SOV_Stalin_Outmaneuvered.png
+ tags:
+  - SOV
+  - SOV_Stalin_Outmaneuvered
+-
+ name: SOV_Stalin_Protegee
+ image: SOV_Stalin_Protegee.png
+ tags:
+  - SOV
+  - SOV_Stalin_Protegee
+-
+ name: SOV_State_Defense_Committee
+ image: SOV_State_Defense_Committee.png
+ tags:
+  - SOV
+  - SOV_State_Defense_Committee
+-
+ name: SOV_Sturmovik
+ image: SOV_Sturmovik.png
+ tags:
+  - SOV
+  - SOV_Sturmovik
+-
+ name: SOV_Support_Zveno_and_Brigadir_Structrures
+ image: SOV_Support_Zveno_and_Brigadir_Structrures.png
+ tags:
+  - SOV
+  - SOV_Support_Zveno_and_Brigadir_Structrures
+-
+ name: SOV_T55
+ image: SOV_T55.png
+ tags:
+  - SOV
+  - SOV_T55
+-
+ name: SOV_The_Bloody_Dwarf
+ image: SOV_The_Bloody_Dwarf.png
+ tags:
+  - SOV
+  - SOV_The_Bloody_Dwarf
+-
+ name: SOV_The_Enslaved_West_Awaits_us
+ image: SOV_The_Enslaved_West_Awaits_us.png
+ tags:
+  - SOV
+  - SOV_The_Enslaved_West_Awaits_us
+-
+ name: SOV_The_Triumph_of_Zhdanov_Doctrine
+ image: SOV_The_Triumph_of_Zhdanov_Doctrine.png
+ tags:
+  - SOV
+  - SOV_The_Triumph_of_Zhdanov_Doctrine
+-
+ name: SOV_Total_Party_Censorship
+ image: SOV_Total_Party_Censorship.png
+ tags:
+  - SOV
+  - SOV_Total_Party_Censorship
+-
+ name: SOV_Transformation_of_Nature
+ image: SOV_Transformation_of_Nature.png
+ tags:
+  - SOV
+  - SOV_Transformation_of_Nature
+-
+ name: SOV_Transpolar_Flight
+ image: SOV_Transpolar_Flight.png
+ tags:
+  - SOV
+  - SOV_Transpolar_Flight
+-
+ name: SOV_Tu16
+ image: SOV_Tu16.png
+ tags:
+  - SOV
+  - SOV_Tu16
+-
+ name: SOV_Tu4
+ image: SOV_Tu4.png
+ tags:
+  - SOV
+  - SOV_Tu4
+-
+ name: SOV_Tukhachevskys_Reformists
+ image: SOV_Tukhachevskys_Reformists.png
+ tags:
+  - SOV
+  - SOV_Tukhachevskys_Reformists
+-
+ name: SOV_VDV
+ image: SOV_VDV.png
+ tags:
+  - SOV
+  - SOV_VDV
+-
+ name: SOV_Voroshilovs_Old_Guard
+ image: SOV_Voroshilovs_Old_Guard.png
+ tags:
+  - SOV
+  - SOV_Voroshilovs_Old_Guard
+-
+ name: SOV_Yakovlev
+ image: SOV_Yakovlev.png
+ tags:
+  - SOV
+  - SOV_Yakovlev
+-
+ name: SOV_Yezhovchina
+ image: SOV_Yezhovchina.png
+ tags:
+  - SOV
+  - SOV_Yezhovchina
+-
+ name: SOV_Zhdanovs_Party_Supremacy
+ image: SOV_Zhdanovs_Party_Supremacy.png
+ tags:
+  - SOV
+  - SOV_Zhdanovs_Party_Supremacy
+-
+ name: SPA_A_Strong_and_Reliable_Leader
+ image: SPA_A_Strong_and_Reliable_Leader.png
+ tags:
+  - SPA
+  - SPA_A_Strong_and_Reliable_Leader
+-
+ name: SPA_Carlist_Leadership
+ image: SPA_Carlist_Leadership.png
+ tags:
+  - SPA
+  - SPA_Carlist_Leadership
+-
+ name: SPA_Carlist_Monarchy
+ image: SPA_Carlist_Monarchy.png
+ tags:
+  - SPA
+  - SPA_Carlist_Monarchy
+-
+ name: SPA_Ejercito_de_Africa
+ image: SPA_Ejercito_de_Africa.png
+ tags:
+  - SPA
+  - SPA_Ejercito_de_Africa
+-
+ name: SPA_Mobilize_the_Spanish_Right
+ image: SPA_Mobilize_the_Spanish_Right.png
+ tags:
+  - SPA
+  - SPA_Mobilize_the_Spanish_Right
+-
+ name: SPA_Propel_Franco
+ image: SPA_Propel_Franco.png
+ tags:
+  - SPA
+  - SPA_Propel_Franco
+-
+ name: SPA_Smash_Francos_Power
+ image: SPA_Smash_Francos_Power.png
+ tags:
+  - SPA
+  - SPA_Smash_Francos_Power
+-
+ name: SPA_Spanish_Air_Force
+ image: SPA_Spanish_Air_Force.png
+ tags:
+  - SPA
+  - SPA_Spanish_Air_Force
+  - Air
+  - air
+-
+ name: SPA_Spanish_Army
+ image: SPA_Spanish_Army.png
+ tags:
+  - SPA
+  - SPA_Spanish_Army
+  - Army
+  - army
+-
+ name: SPA_Spanish_Navy
+ image: SPA_Spanish_Navy.png
+ tags:
+  - SPA
+  - SPA_Spanish_Navy
+  - Navy
+  - navy
+-
+ name: SPA_The_Crusade_Begins
+ image: SPA_The_Crusade_Begins.png
+ tags:
+  - SPA
+  - SPA_The_Crusade_Begins
+-
+ name: SPA_Ties_with_Reactionary_Powers
+ image: SPA_Ties_with_Reactionary_Powers.png
+ tags:
+  - SPA
+  - SPA_Ties_with_Reactionary_Powers
+-
+ name: SPR_1933_4th_Radical_Government
+ image: SPR_1933_4th_Radical_Government.png
+ tags:
+  - SPR
+  - SPR_1933_4th_Radical_Government
+-
+ name: SPR_1933_Altos_Hornos_De_Vizcaya
+ image: SPR_1933_Altos_Hornos_De_Vizcaya.png
+ tags:
+  - SPR
+  - SPR_1933_Altos_Hornos_De_Vizcaya
+-
+ name: SPR_1933_Combat_Rural_Desolation
+ image: SPR_1933_Combat_Rural_Desolation.png
+ tags:
+  - SPR
+  - SPR_1933_Combat_Rural_Desolation
+-
+ name: SPR_1933_Continue_The_School_Program
+ image: SPR_1933_Continue_The_School_Program.png
+ tags:
+  - SPR
+  - SPR_1933_Continue_The_School_Program
+-
+ name: SPR_1933_Cooperate_With_The_Syndicates
+ image: SPR_1933_Cooperate_With_The_Syndicates.png
+ tags:
+  - SPR
+  - SPR_1933_Cooperate_With_The_Syndicates
+-
+ name: SPR_1933_Elect_The_President
+ image: SPR_1933_Elect_The_President.png
+ tags:
+  - SPR
+  - SPR_1933_Elect_The_President
+-
+ name: SPR_1933_El_Ejercito_Republicano
+ image: SPR_1933_El_Ejercito_Republicano.png
+ tags:
+  - SPR
+  - SPR_1933_El_Ejercito_Republicano
+-
+ name: SPR_1933_Industria_Regeneracionista
+ image: SPR_1933_Industria_Regeneracionista.png
+ tags:
+  - SPR
+  - SPR_1933_Industria_Regeneracionista
+-
+ name: SPR_1933_Instalaza
+ image: SPR_1933_Instalaza.png
+ tags:
+  - SPR
+  - SPR_1933_Instalaza
+-
+ name: SPR_1933_Promote_Exportation
+ image: SPR_1933_Promote_Exportation.png
+ tags:
+  - SPR
+  - SPR_1933_Promote_Exportation
+-
+ name: SPR_1933_Reduce_The_Landowners_Powers
+ image: SPR_1933_Reduce_The_Landowners_Powers.png
+ tags:
+  - SPR
+  - SPR_1933_Reduce_The_Landowners_Powers
+-
+ name: SPR_1933_Revoke_The_Integral_State
+ image: SPR_1933_Revoke_The_Integral_State.png
+ tags:
+  - SPR
+  - SPR_1933_Revoke_The_Integral_State
+-
+ name: SPR_1933_Rid_The_Countryside_Of_Socialism
+ image: SPR_1933_Rid_The_Countryside_Of_Socialism.png
+ tags:
+  - SPR
+  - SPR_1933_Rid_The_Countryside_Of_Socialism
+-
+ name: SPR_1933_The_Agrarian_Reform
+ image: SPR_1933_The_Agrarian_Reform.png
+ tags:
+  - SPR
+  - SPR_1933_The_Agrarian_Reform
+-
+ name: SPR_2nd_Radical_Government
+ image: SPR_2nd_Radical_Government.png
+ tags:
+  - SPR
+  - SPR_2nd_Radical_Government
+-
+ name: SPR_Amnesty_for_the_Sanjurjada
+ image: SPR_Amnesty_for_the_Sanjurjada.png
+ tags:
+  - SPR
+  - SPR_Amnesty_for_the_Sanjurjada
+-
+ name: SPR_Appease_the_Catalans
+ image: SPR_Appease_the_Catalans.png
+ tags:
+  - SPR
+  - SPR_Appease_the_Catalans
+-
+ name: SPR_Azanas_Cabinet
+ image: SPR_Azanas_Cabinet.png
+ tags:
+  - SPR
+  - SPR_Azanas_Cabinet
+-
+ name: SPR_CEDA_Victory
+ image: SPR_CEDA_Victory.png
+ tags:
+  - SPR
+  - SPR_CEDA_Victory
+-
+ name: SPR_CNT_FAI_Take_Over
+ image: SPR_CNT_FAI_Take_Over.png
+ tags:
+  - SPR
+  - SPR_CNT_FAI_Take_Over
+-
+ name: SPR_Defend_Spain
+ image: SPR_Defend_Spain.png
+ tags:
+  - SPR
+  - SPR_Defend_Spain
+-
+ name: SPR_Destitute_Left_Wing_Governors
+ image: SPR_Destitute_Left_Wing_Governors.png
+ tags:
+  - SPR
+  - SPR_Destitute_Left_Wing_Governors
+-
+ name: SPR_Hit_Back_on_Barcelona
+ image: SPR_Hit_Back_on_Barcelona.png
+ tags:
+  - SPR
+  - SPR_Hit_Back_on_Barcelona
+-
+ name: SPR_Instalaza
+ image: SPR_Instalaza.png
+ tags:
+  - SPR
+  - SPR_Instalaza
+-
+ name: SPR_International_Brigades
+ image: SPR_International_Brigades.png
+ tags:
+  - SPR
+  - SPR_International_Brigades
+-
+ name: SPR_La_Revolucion_del_34
+ image: SPR_La_Revolucion_del_34.png
+ tags:
+  - SPR
+  - SPR_La_Revolucion_del_34
+-
+ name: SPR_Liberal_Republic
+ image: SPR_Liberal_Republic.png
+ tags:
+  - SPR
+  - SPR_Liberal_Republic
+-
+ name: SPR_Madrid_Controls
+ image: SPR_Madrid_Controls.png
+ tags:
+  - SPR
+  - SPR_Madrid_Controls
+-
+ name: SPR_No_Pasaran
+ image: SPR_No_Pasaran.png
+ tags:
+  - SPR
+  - SPR_No_Pasaran
+-
+ name: SPR_PCE_Take_Over
+ image: SPR_PCE_Take_Over.png
+ tags:
+  - SPR
+  - SPR_PCE_Take_Over
+-
+ name: SPR_Provinces_Command
+ image: SPR_Provinces_Command.png
+ tags:
+  - SPR
+  - SPR_Provinces_Command
+-
+ name: SPR_Rectify_Some_of_Largos_Labour_Reforms
+ image: SPR_Rectify_Some_of_Largos_Labour_Reforms.png
+ tags:
+  - SPR
+  - SPR_Rectify_Some_of_Largos_Labour_Reforms
+-
+ name: SPR_Revoke_the_Integral_State
+ image: SPR_Revoke_the_Integral_State.png
+ tags:
+  - SPR
+  - SPR_Revoke_the_Integral_State
+-
+ name: SPR_Scars_of_the_Civil_War
+ image: SPR_Scars_of_the_Civil_War.png
+ tags:
+  - SPR
+  - SPR_Scars_of_the_Civil_War
+-
+ name: SPR_Spanish_Elections
+ image: SPR_Spanish_Elections.png
+ tags:
+  - SPR
+  - SPR_Spanish_Elections
+-
+ name: SPR_Spanish_Republican_Air_Force
+ image: SPR_Spanish_Republican_Air_Force.png
+ tags:
+  - SPR
+  - SPR_Spanish_Republican_Air_Force
+  - Air
+  - air
+-
+ name: SPR_Spanish_Republican_Army
+ image: SPR_Spanish_Republican_Army.png
+ tags:
+  - SPR
+  - SPR_Spanish_Republican_Army
+  - Army
+  - army
+-
+ name: SPR_Spanish_Republican_Navy
+ image: SPR_Spanish_Republican_Navy.png
+ tags:
+  - SPR
+  - SPR_Spanish_Republican_Navy
+  - Navy
+  - navy
+-
+ name: SPR_The_Popular_Front_Forms
+ image: SPR_The_Popular_Front_Forms.png
+ tags:
+  - SPR
+  - SPR_The_Popular_Front_Forms
+-
+ name: SPR_The_Republican_Deal
+ image: SPR_The_Republican_Deal.png
+ tags:
+  - SPR
+  - SPR_The_Republican_Deal
+-
+ name: SPR_Unite_the_Conservatives
+ image: SPR_Unite_the_Conservatives.png
+ tags:
+  - SPR
+  - SPR_Unite_the_Conservatives
+-
+ name: SWE_Swedish_Air_Force
+ image: SWE_Swedish_Air_Force.png
+ tags:
+  - SWE
+  - SWE_Swedish_Air_Force
+  - Air
+  - air
+-
+ name: SWE_Swedish_Army
+ image: SWE_Swedish_Army.png
+ tags:
+  - SWE
+  - SWE_Swedish_Army
+  - Army
+  - army
+-
+ name: SWE_Swedish_Navy
+ image: SWE_Swedish_Navy.png
+ tags:
+  - SWE
+  - SWE_Swedish_Navy
+  - Navy
+  - navy
+-
+ name: SWI_Swiss_Air_Force
+ image: SWI_Swiss_Air_Force.png
+ tags:
+  - SWI
+  - SWI_Swiss_Air_Force
+  - Air
+  - air
+-
+ name: SWI_Swiss_Army
+ image: SWI_Swiss_Army.png
+ tags:
+  - SWI
+  - SWI_Swiss_Army
+  - Army
+  - army
+-
+ name: SWI_Swiss_Navy
+ image: SWI_Swiss_Navy.png
+ tags:
+  - SWI
+  - SWI_Swiss_Navy
+  - Navy
+  - navy
+-
+ name: TIB_Tibetan_Army
+ image: TIB_Tibetan_Army.png
+ tags:
+  - TIB
+  - TIB_Tibetan_Army
+  - Army
+  - army
+-
+ name: TNG_Align_with_Ma_Cliques
+ image: TNG_Align_with_Ma_Cliques.png
+ tags:
+  - TNG
+  - TNG_Align_with_Ma_Cliques
+-
+ name: TNG_A_New_Xinjiang_Ma_Clique
+ image: TNG_A_New_Xinjiang_Ma_Clique.png
+ tags:
+  - TNG
+  - TNG_A_New_Xinjiang_Ma_Clique
+-
+ name: TNG_Book_of_Lord_Sheng
+ image: TNG_Book_of_Lord_Sheng.png
+ tags:
+  - TNG
+  - TNG_Book_of_Lord_Sheng
+-
+ name: TNG_Break_off_from_the_KMT
+ image: TNG_Break_off_from_the_KMT.png
+ tags:
+  - TNG
+  - TNG_Break_off_from_the_KMT
+-
+ name: TNG_Erect_Statues
+ image: TNG_Erect_Statues.png
+ tags:
+  - TNG
+  - TNG_Erect_Statues
+-
+ name: TNG_Fund_Islamic_Insurgencies_in_Central_Asia
+ image: TNG_Fund_Islamic_Insurgencies_in_Central_Asia.png
+ tags:
+  - TNG
+  - TNG_Fund_Islamic_Insurgencies_in_Central_Asia
+-
+ name: TNG_Jihad_Against_Sinkiang
+ image: TNG_Jihad_Against_Sinkiang.png
+ tags:
+  - TNG
+  - TNG_Jihad_Against_Sinkiang
+-
+ name: TNG_Kidnapping_and_Ransoms
+ image: TNG_Kidnapping_and_Ransoms.png
+ tags:
+  - TNG
+  - TNG_Kidnapping_and_Ransoms
+-
+ name: TNG_Ma_Hushan
+ image: TNG_Ma_Hushan.png
+ tags:
+  - TNG
+  - TNG_Ma_Hushan
+-
+ name: TNG_Ma_Zhancang
+ image: TNG_Ma_Zhancang.png
+ tags:
+  - TNG
+  - TNG_Ma_Zhancang
+-
+ name: TNG_Mend_Uyghur_Tungan_Relations
+ image: TNG_Mend_Uyghur_Tungan_Relations.png
+ tags:
+  - TNG
+  - TNG_Mend_Uyghur_Tungan_Relations
+-
+ name: TNG_Proclaim_the_Tungan_Empire
+ image: TNG_Proclaim_the_Tungan_Empire.png
+ tags:
+  - TNG
+  - TNG_Proclaim_the_Tungan_Empire
+-
+ name: TNG_Seek_Assisstance_from_the_KMT
+ image: TNG_Seek_Assisstance_from_the_KMT.png
+ tags:
+  - TNG
+  - TNG_Seek_Assisstance_from_the_KMT
+-
+ name: TNG_Supress_Uyghur_Population
+ image: TNG_Supress_Uyghur_Population.png
+ tags:
+  - TNG
+  - TNG_Supress_Uyghur_Population
+-
+ name: TNG_The_Frontier
+ image: TNG_The_Frontier.png
+ tags:
+  - TNG
+  - TNG_The_Frontier
+-
+ name: TNG_The_Young_General
+ image: TNG_The_Young_General.png
+ tags:
+  - TNG
+  - TNG_The_Young_General
+-
+ name: TNG_Tunganistan_Air_Force
+ image: TNG_Tunganistan_Air_Force.png
+ tags:
+  - TNG
+  - TNG_Tunganistan_Air_Force
+  - Air
+  - air
+-
+ name: TNG_Tunganistan_National_Army
+ image: TNG_Tunganistan_National_Army.png
+ tags:
+  - TNG
+  - TNG_Tunganistan_National_Army
+  - Army
+  - army
+-
+ name: TNG_Tungan_Identity
+ image: TNG_Tungan_Identity.png
+ tags:
+  - TNG
+  - TNG_Tungan_Identity
+-
+ name: TNG_Where_is_Ma_Zhongying
+ image: TNG_Where_is_Ma_Zhongying.png
+ tags:
+  - TNG
+  - TNG_Where_is_Ma_Zhongying
+-
+ name: TUR_Address_the_Republican_Issues
+ image: TUR_Address_the_Republican_Issues.png
+ tags:
+  - TUR
+  - TUR_Address_the_Republican_Issues
+-
+ name: TUR_Anatolian_Economic_Program
+ image: TUR_Anatolian_Economic_Program.png
+ tags:
+  - TUR
+  - TUR_Anatolian_Economic_Program
+-
+ name: TUR_A_Victory_For_Turkey
+ image: TUR_A_Victory_For_Turkey.png
+ tags:
+  - TUR
+  - TUR_A_Victory_For_Turkey
+-
+ name: TUR_Borders_at_Europe
+ image: TUR_Borders_at_Europe.png
+ tags:
+  - TUR
+  - TUR_Borders_at_Europe
+-
+ name: TUR_Challenge_the_Regia_Marina
+ image: TUR_Challenge_the_Regia_Marina.png
+ tags:
+  - TUR
+  - TUR_Challenge_the_Regia_Marina
+-
+ name: TUR_Dealing_with_the_Militias
+ image: TUR_Dealing_with_the_Militias.png
+ tags:
+  - TUR
+  - TUR_Dealing_with_the_Militias
+-
+ name: TUR_Eyes_on_Levant
+ image: TUR_Eyes_on_Levant.png
+ tags:
+  - TUR
+  - TUR_Eyes_on_Levant
+-
+ name: TUR_Hunt_Down_Opposition
+ image: TUR_Hunt_Down_Opposition.png
+ tags:
+  - TUR
+  - TUR_Hunt_Down_Opposition
+-
+ name: TUR_Instate_Direct_Rule
+ image: TUR_Instate_Direct_Rule.png
+ tags:
+  - TUR
+  - TUR_Instate_Direct_Rule
+-
+ name: TUR_Legacy_of_Hayreddin_Barbaros
+ image: TUR_Legacy_of_Hayreddin_Barbaros.png
+ tags:
+  - TUR
+  - TUR_Legacy_of_Hayreddin_Barbaros
+-
+ name: TUR_Little_Mehmets_Never_Die
+ image: TUR_Little_Mehmets_Never_Die.png
+ tags:
+  - TUR
+  - TUR_Little_Mehmets_Never_Die
+-
+ name: TUR_Nationalist_Propoganda
+ image: TUR_Nationalist_Propoganda.png
+ tags:
+  - TUR
+  - TUR_Nationalist_Propoganda
+-
+ name: TUR_President_Cakmak
+ image: TUR_President_Cakmak.png
+ tags:
+  - TUR
+  - TUR_President_Cakmak
+-
+ name: TUR_President_Inonu
+ image: TUR_President_Inonu.png
+ tags:
+  - TUR
+  - TUR_President_Inonu
+-
+ name: TUR_Turkish_Air_Force
+ image: TUR_Turkish_Air_Force.png
+ tags:
+  - TUR
+  - TUR_Turkish_Air_Force
+  - Air
+  - air
+-
+ name: TUR_Turkish_Army
+ image: TUR_Turkish_Army.png
+ tags:
+  - TUR
+  - TUR_Turkish_Army
+  - Army
+  - army
+-
+ name: TUR_Turkish_Navy
+ image: TUR_Turkish_Navy.png
+ tags:
+  - TUR
+  - TUR_Turkish_Navy
+  - Navy
+  - navy
+-
+ name: TUR_Vision_for_the_Future
+ image: TUR_Vision_for_the_Future.png
+ tags:
+  - TUR
+  - TUR_Vision_for_the_Future
+-
+ name: TUR_Wealth_of_Anatolia
+ image: TUR_Wealth_of_Anatolia.png
+ tags:
+  - TUR
+  - TUR_Wealth_of_Anatolia
+-
+ name: UKR_Ukrainian_Air_Force
+ image: UKR_Ukrainian_Air_Force.png
+ tags:
+  - UKR
+  - UKR_Ukrainian_Air_Force
+  - Air
+  - air
+-
+ name: UKR_Ukrainian_Army
+ image: UKR_Ukrainian_Army.png
+ tags:
+  - UKR
+  - UKR_Ukrainian_Army
+  - Army
+  - army
+-
+ name: UKR_Ukrainian_Navy
+ image: UKR_Ukrainian_Navy.png
+ tags:
+  - UKR
+  - UKR_Ukrainian_Navy
+  - Navy
+  - navy
+-
+ name: USA_1933_Franklin_Roosevelt
+ image: USA_1933_Franklin_Roosevelt.png
+ tags:
+  - USA
+  - USA_1933_Franklin_Roosevelt
+-
+ name: USA_1936_Alf_Landon
+ image: USA_1936_Alf_Landon.png
+ tags:
+  - USA
+  - USA_1936_Alf_Landon
+-
+ name: USA_1936_Franklin_Roosevelt
+ image: USA_1936_Franklin_Roosevelt.png
+ tags:
+  - USA
+  - USA_1936_Franklin_Roosevelt
+-
+ name: USA_1940_Franklin_Roosevelt
+ image: USA_1940_Franklin_Roosevelt.png
+ tags:
+  - USA
+  - USA_1940_Franklin_Roosevelt
+-
+ name: USA_1940_Wendell_Willkie
+ image: USA_1940_Wendell_Willkie.png
+ tags:
+  - USA
+  - USA_1940_Wendell_Willkie
+-
+ name: USA_1944_Franklin_Roosevelt
+ image: USA_1944_Franklin_Roosevelt.png
+ tags:
+  - USA
+  - USA_1944_Franklin_Roosevelt
+-
+ name: USA_1948_Harry_Truman
+ image: USA_1948_Harry_Truman.png
+ tags:
+  - USA
+  - USA_1948_Harry_Truman
+-
+ name: USA_Abandon_the_Gold_Standard
+ image: USA_Abandon_the_Gold_Standard.png
+ tags:
+  - USA
+  - USA_Abandon_the_Gold_Standard
+-
+ name: USA_An_Act_of_Neutrality
+ image: USA_An_Act_of_Neutrality.png
+ tags:
+  - USA
+  - USA_An_Act_of_Neutrality
+-
+ name: USA_Attack_Attack_and_Attack_Some_More
+ image: USA_Attack_Attack_and_Attack_Some_More.png
+ tags:
+  - USA
+  - USA_Attack_Attack_and_Attack_Some_More
+-
+ name: USA_A_Defence_against_Aggression
+ image: USA_A_Defence_against_Aggression.png
+ tags:
+  - USA
+  - USA_A_Defence_against_Aggression
+-
+ name: USA_Blue_Eagle_Campaign
+ image: USA_Blue_Eagle_Campaign.png
+ tags:
+  - USA
+  - USA_Blue_Eagle_Campaign
+-
+ name: USA_Civil_Works_Administration
+ image: USA_Civil_Works_Administration.png
+ tags:
+  - USA
+  - USA_Civil_Works_Administration
+-
+ name: USA_Communism
+ image: USA_Communism.png
+ tags:
+  - USA
+  - USA_Communism
+-
+ name: USA_Drinks_on_the_House
+ image: USA_Drinks_on_the_House.png
+ tags:
+  - USA
+  - USA_Drinks_on_the_House
+-
+ name: USA_Eisenhower_Grand_Battleplan
+ image: USA_Eisenhower_Grand_Battleplan.png
+ tags:
+  - USA
+  - USA_Eisenhower_Grand_Battleplan
+-
+ name: USA_Expand_the_Youth_Programs
+ image: USA_Expand_the_Youth_Programs.png
+ tags:
+  - USA
+  - USA_Expand_the_Youth_Programs
+-
+ name: USA_F86
+ image: USA_F86.png
+ tags:
+  - USA
+  - USA_F86
+-
+ name: USA_Food_Stamp_Plan
+ image: USA_Food_Stamp_Plan.png
+ tags:
+  - USA
+  - USA_Food_Stamp_Plan
+-
+ name: USA_Louisiana_Maneuvers
+ image: USA_Louisiana_Maneuvers.png
+ tags:
+  - USA
+  - USA_Louisiana_Maneuvers
+-
+ name: USA_Make_Thunder_Louder
+ image: USA_Make_Thunder_Louder.png
+ tags:
+  - USA
+  - USA_Make_Thunder_Louder
+-
+ name: USA_Marshall_Overwhelming_Firepower
+ image: USA_Marshall_Overwhelming_Firepower.png
+ tags:
+  - USA
+  - USA_Marshall_Overwhelming_Firepower
+-
+ name: USA_Mechanized_Infantry
+ image: USA_Mechanized_Infantry.png
+ tags:
+  - USA
+  - USA_Mechanized_Infantry
+-
+ name: USA_Patton_Advance_Armour
+ image: USA_Patton_Advance_Armour.png
+ tags:
+  - USA
+  - USA_Patton_Advance_Armour
+-
+ name: USA_Presidential_Elections
+ image: USA_Presidential_Elections.png
+ tags:
+  - USA
+  - USA_Presidential_Elections
+-
+ name: USA_Prevent_Another_Bonus_Army
+ image: USA_Prevent_Another_Bonus_Army.png
+ tags:
+  - USA
+  - USA_Prevent_Another_Bonus_Army
+  - Army
+  - army
+-
+ name: USA_Relieve_Puerto_Rico
+ image: USA_Relieve_Puerto_Rico.png
+ tags:
+  - USA
+  - USA_Relieve_Puerto_Rico
+-
+ name: USA_Restore_Confidence_in_the_Banks
+ image: USA_Restore_Confidence_in_the_Banks.png
+ tags:
+  - USA
+  - USA_Restore_Confidence_in_the_Banks
+-
+ name: USA_Second_New_Deal
+ image: USA_Second_New_Deal.png
+ tags:
+  - USA
+  - USA_Second_New_Deal
+-
+ name: USA_Suport_American_Artisans
+ image: USA_Suport_American_Artisans.png
+ tags:
+  - USA
+  - USA_Suport_American_Artisans
+-
+ name: USA_The_Good_Neighbor
+ image: USA_The_Good_Neighbor.png
+ tags:
+  - USA
+  - USA_The_Good_Neighbor
+-
+ name: USA_The_Only_Sure_Defense_is_Offense
+ image: USA_The_Only_Sure_Defense_is_Offense.png
+ tags:
+  - USA
+  - USA_The_Only_Sure_Defense_is_Offense
+-
+ name: USA_USAF
+ image: USA_USAF.png
+ tags:
+  - USA
+  - USA_USAF
+-
+ name: USA_USMC
+ image: USA_USMC.png
+ tags:
+  - USA
+  - USA_USMC
+-
+ name: USA_US_Army
+ image: USA_US_Army.png
+ tags:
+  - USA
+  - USA_US_Army
+  - Army
+  - army
+-
+ name: USA_US_Army_Air_Corps
+ image: USA_US_Army_Air_Corps.png
+ tags:
+  - USA
+  - USA_US_Army_Air_Corps
+  - Army
+  - army
+  - Air
+  - air
+-
+ name: USA_US_Navy
+ image: USA_US_Navy.png
+ tags:
+  - USA
+  - USA_US_Navy
+  - Navy
+  - navy
+-
+ name: USA_WPA
+ image: USA_WPA.png
+ tags:
+  - USA
+  - USA_WPA
+-
+ name: VIC_Armee_dArmistice
+ image: VIC_Armee_dArmistice.png
+ tags:
+  - VIC
+  - VIC_Armee_dArmistice
+-
+ name: VIC_Armee_de_LAir
+ image: VIC_Armee_de_LAir.png
+ tags:
+  - VIC
+  - VIC_Armee_de_LAir
+-
+ name: VIC_Famille
+ image: VIC_Famille.png
+ tags:
+  - VIC
+  - VIC_Famille
+-
+ name: VIC_Marechal_Nous_Voila
+ image: VIC_Marechal_Nous_Voila.png
+ tags:
+  - VIC
+  - VIC_Marechal_Nous_Voila
+-
+ name: VIC_Milice_Francaise
+ image: VIC_Milice_Francaise.png
+ tags:
+  - VIC
+  - VIC_Milice_Francaise
+-
+ name: VIC_Patrie
+ image: VIC_Patrie.png
+ tags:
+  - VIC
+  - VIC_Patrie
+-
+ name: VIC_Revolution_Nationale
+ image: VIC_Revolution_Nationale.png
+ tags:
+  - VIC
+  - VIC_Revolution_Nationale
+-
+ name: VIC_Travail
+ image: VIC_Travail.png
+ tags:
+  - VIC
+  - VIC_Travail
+-
+ name: VIC_Vichy_French_Fleet
+ image: VIC_Vichy_French_Fleet.png
+ tags:
+  - VIC
+  - VIC_Vichy_French_Fleet
+-
+ name: VIN_Indochinese_Air_Force
+ image: VIN_Indochinese_Air_Force.png
+ tags:
+  - VIN
+  - VIN_Indochinese_Air_Force
+  - Air
+  - air
+-
+ name: VIN_Indochinese_Army
+ image: VIN_Indochinese_Army.png
+ tags:
+  - VIN
+  - VIN_Indochinese_Army
+  - Army
+  - army
+-
+ name: VIN_Indochinese_Navy
+ image: VIN_Indochinese_Navy.png
+ tags:
+  - VIN
+  - VIN_Indochinese_Navy
+  - Navy
+  - navy
+-
+ name: YUG_Royal_Yugoslav_Air_Force
+ image: YUG_Royal_Yugoslav_Air_Force.png
+ tags:
+  - YUG
+  - YUG_Royal_Yugoslav_Air_Force
+  - Air
+  - air
+-
+ name: YUG_Royal_Yugoslav_Army
+ image: YUG_Royal_Yugoslav_Army.png
+ tags:
+  - YUG
+  - YUG_Royal_Yugoslav_Army
+  - Army
+  - army
+-
+ name: YUG_Royal_Yugoslav_Navy
+ image: YUG_Royal_Yugoslav_Navy.png
+ tags:
+  - YUG
+  - YUG_Royal_Yugoslav_Navy
+  - Navy
+  - navy
+-
+
+
+ 
