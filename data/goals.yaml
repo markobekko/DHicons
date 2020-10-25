@@ -6575,6 +6575,12 @@ goals:
   - USA
   - USA_Food_Stamp_Plan
 -
+ name: USA_Implement_Fair_Labor_Standards
+ image: USA_Implement_Fair_Labor_Standards.png
+ tags:
+  - USA
+  - USA_Implement_Fair_Labor_Standards
+-
  name: USA_Louisiana_Maneuvers
  image: USA_Louisiana_Maneuvers.png
  tags:
