@@ -7,6 +7,7 @@ goals:
   - AFG_Afghan_Royal_Air_Force
   - Air
   - air
+  
 -
  name: AFG_Afghan_Royal_Army
  image: AFG_Afghan_Royal_Army.png
@@ -15,6 +16,7 @@ goals:
   - AFG_Afghan_Royal_Army
   - Army
   - army
+  
 -
  name: ALB_Royal_Albanian_Air_Force
  image: ALB_Royal_Albanian_Air_Force.png
@@ -23,6 +25,7 @@ goals:
   - ALB_Royal_Albanian_Air_Force
   - Air
   - air
+  
 -
  name: ALB_Royal_Albanian_Army
  image: ALB_Royal_Albanian_Army.png
@@ -6813,7 +6816,5 @@ goals:
   - YUG_Royal_Yugoslav_Navy
   - Navy
   - navy
--
-
-
+  
  
