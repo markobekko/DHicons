@@ -1499,27 +1499,11 @@ goals:
   - Generic
   - generic
 -
- name: GENERIC_Anti_Communism.png
- image: GENERIC_Anti_Communism.png.png
- tags:
-  - GENERIC
-  - GENERIC_Anti_Communism.png
-  - Generic
-  - generic
--
  name: GENERIC_Anti_Democracy
  image: GENERIC_Anti_Democracy.png
  tags:
   - GENERIC
   - GENERIC_Anti_Democracy
-  - Generic
-  - generic
--
- name: GENERIC_Anti_Democracy.png
- image: GENERIC_Anti_Democracy.png.png
- tags:
-  - GENERIC
-  - GENERIC_Anti_Democracy.png
   - Generic
   - generic
 -
