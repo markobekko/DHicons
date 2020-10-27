@@ -2957,6 +2957,12 @@ goals:
   - GER
   - GER_Battle_of_the_Atlantic
 -
+ name: GER_Berlin_Moscow_Axis
+ image: GER_Berlin_Moscow_Axis.png
+ tags:
+  - GER
+  - GER_Berlin_Moscow_Axis
+-
  name: GER_BF109
  image: GER_BF109.png
  tags:
